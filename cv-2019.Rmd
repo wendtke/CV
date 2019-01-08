@@ -2,21 +2,18 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/miscelanea/svm-r-markdown-templates/svm-latex-cv.tex
+    template: svm-r-markdown-templates/svm-latex-cv.tex
 geometry: margin=1in
 
-title: "CV"
-author: William Sealy Gosset
+title: "Curriculum Vitae"
+author: Kathleen Ellen Wendt
 
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+jobtitle: "Graduate Student (MS/PhD)"
+address: "Behavioral Sciences Building 438/439 · Colorado State University  · Fort Collins, CO"
 fontawesome: yes
-email: guinness@consumer-care.net
-# github: svmiller
-# twitter: stevenvmiller
-phone: "+353 1 408 4800"
-web: guinness.com
-updated: no
+email: Kathleen.Wendt@colostate.edu
+github: wendtke
+updated: yes
 
 keywords: R Markdown, academic CV, template
 
@@ -27,17 +24,22 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# Employment
+# Education
+
+*Colorado State University*, Ph.D. Applied Developmental Science \hfill Expected 2023
+
+*Colorado State University*, M.S. Prevention Science \hfill Expected 2020
+
+*Colorado State University*, B.S. Human Development and Family Studies \hfill 2018
+
+
+# Research Experience
 
 *Arthur Guinness & Son*
 
 Chief Brewer (Park Royal) \hfill 1935-1937
 
 Researcher (Dublin) \hfill 1899-1935
-
-# Education
-
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
 
 
 # Publications
