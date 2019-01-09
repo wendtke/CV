@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "Curriculum Vitae"
 author: Kathleen Ellen Wendt
 
-jobtitle: "Graduate Student (MS/PhD)"
+jobtitle: "Graduate Student"
 address: "Behavioral Sciences Building 438/439 · Colorado State University  · Fort Collins, CO"
 fontawesome: yes
 email: Kathleen.Wendt@colostate.edu
@@ -26,66 +26,132 @@ urlcolor: blue
 
 # Education
 
-*Colorado State University*, Ph.D. Applied Developmental Science \hfill Expected 2023
+*Colorado State University*, Ph.D. in Applied Developmental Science \hfill Expected 2023
 
-*Colorado State University*, M.S. Prevention Science \hfill Expected 2020
+*Colorado State University*, M.S. in Prevention Science \hfill Expected 2020
 
-*Colorado State University*, B.S. Human Development and Family Studies \hfill 2018
-
+*Colorado State University*, B.S. in Human Development and Family Studies \hfill 2018
 
 # Research Experience
 
-*Arthur Guinness & Son*
+**Child Trauma and Resilience Assessment Center**, Director: Stephanie Seng, M.S.
 
-Chief Brewer (Park Royal) \hfill 1935-1937
+*Intern* \hfill Fall 2017
 
-Researcher (Dublin) \hfill 1899-1935
+Tasks: Administrative and research support for SAMHSA-funded trauma-informed care and state-wide training (PI: Lise Youngblade, Ph.D.).
 
+**Mindfulness and Family Resilience Laboratory**, Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
+
+*Lab Manager* \hfill  2016 - Present
+
+Tasks: Project management administration; data collection and analysis; technical and scientific writing; and recruitment, training, mentorship, and management of 10+ undergraduate research assistants.
+
+Current Studies
+
+1. *Mindful Parent Observational Study*: Comparing behavioral and affective indicators in parent-youth interactions after randomized controlled trial of Mindfulness-enhanced Strengthening Families Program
+
+2. *Project Mind-Heart*: Investigating effects of parental mindfulness induction on individual and dyadic patterns of parasympathetic, affective, and behavioral processes during a challenging parent-child interaction
+
+**Parenting Young Children Project**, Principal Investigator: Erika S. Lunkenheimer, Ph.D. 
+
+*Project Manager* \hfill 2015 - 2018
+
+Tasks: Project management; grant administration; participant recruitment; data collection and analysis.
+
+**Cognitive Neuroimaging Laboratory**, Director & Principal Investigator: Carol A. Seger, Ph.D. 
+
+*Honors Undergraduate Research Scholar* \hfill 2014 - 2015
+
+Tasks: Data collection and management.
 
 # Publications
 
-## Books
+## Book Chapters
 
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
+1. **Wendt, K.E.** (2015). Zikomo kukumana: “Nice to meet you” In *A friend is someone you share the path with* (pp. 111-135). Fort Collins, CO: Colorado State University. 
 
 ## Journal Articles
 
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
+1. Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.** (Under review). Flexible or inconsistent? The impact of parent-child dyadic flexibility on child emotion regulation varies by maternal depressive symptoms. *Parenting: Science and Practice.*
 
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
+# Presentations
 
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
+## Conferences
 
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
+1. Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
+2. **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
+3. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
+## Invited Talks (Panels)
+1. 
 
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
+2018	HDFS Graduate Programs ConX Panelist (CSU)
+2018	PsiChi Honors Society Session Panelist (CSU)
+2018	NSF Graduate Research Fellowship Program Writing Workshop Advisor (CSU)
+2018	NSF Graduate Research Fellowship Program Informational Session Panelist (CSU)
 
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
+# Extramural Funding
 
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
+1. National Science Foundation Graduate Research Fellowship \hfill 2018 - 2023
 
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
+# Intra-Unversity Honors & Awards
 
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
+1. Colorado State Graduate Fellowship \hfill 2018
+2. University Honors Scholar (B.S.) \hfill 2018
+3. *Summa Cum Laude* distinction (B.S.) \hfill 2018
+4. College of Health & Human Sciences Outstanding Graduate \hfill 2018
+5. Albert C. and Ann E. Yates Pacesetter Scholarship \hfill 2017
+6. Anne Blair Scholarship \hfill 2017
+7. Presidential Ambassador Finalist \hfill 2017
+8. Harry S. Truman Foundation Scholarship Institutional Nominee \hfill 2016
+9. College of Health and Human Sciences Students First Scholarship \hfill 2016
+10. Spots Scholarship \hfill 2015
+11. Honors Scholarship \hfill 2014
+12. Green & Gold Scholarship \hfill 2014
 
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
 
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
+# Professional Membership
 
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
+**Society for Prevention Research (SPR) Early Career Preventionist Network (ECPN)**
 
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
+*Steering Committee Member* \hfill 2018 - Present
 
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
+*Awards Subcommittee Member* \hfill 2018 - Present
 
-## Other Publications
+**European Society for Prevention Research (EUSPR)**
 
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
+*Early Career Forum (ECF) Member* \hfill 2018 - Present
 
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
+**CSU Graduate Student Council**
+
+*Department Representative* \hfill 2018 - Present
+
+# Professional Service
+
+Department of Human Development and Family Studies, Colorado State University
+
+*Coordinator of Guest Speaker Series* \hfill 2019 - Present
+
+Society for Prevention Research 
+
+*Abstract Student-Reviewer* \hfill 2018 - Present
+
+*Journal of Undergraduate Research*, Colorado State University
+
+*Graduate Referee* \hfill 2018 - Present
+
+# Professional Development 
+
+1. National Institutes of Health (NIH) Grant-Writing Workshop (August 3, 2018) via Grant Training Center (Maria Esformes, Ph.D.)
+
+2. Heart Rate Variability Seminar (June 9-10, 2018), MindWare Technologies with Dr. Gary Berntson
+
+3. Society for Prevention Research Preconference Workshop on Bayesian Causal Mediation Analysis (May 29, 2018) with Dr. David Mackinnon et al.
+
+
+
+# Teaching and Mentoring Experience
+
+
 
 # References
-
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
