@@ -32,6 +32,7 @@ urlcolor: blue
 
 *Colorado State University*, B.S. in Human Development and Family Studies \hfill 2018
 
+
 # Research Experience
 
 **Child Trauma and Resilience Assessment Center**, Director: Stephanie Seng, M.S.
@@ -48,9 +49,9 @@ Tasks: Project management administration; data collection and analysis; technica
 
 Current Studies
 
-1. *Mindful Parent Observational Study*: Comparing behavioral and affective indicators in parent-youth interactions after randomized controlled trial of Mindfulness-enhanced Strengthening Families Program
+1. *Mindful Parent Observational Study* (MPOS): Comparing behavioral and affective indicators in parent-youth interactions after randomized controlled trial of Mindfulness-enhanced Strengthening Families Program
 
-2. *Project Mind-Heart*: Investigating effects of parental mindfulness induction on individual and dyadic patterns of parasympathetic, affective, and behavioral processes during a challenging parent-child interaction
+2. *Project Mind-Heart* (PMH): Investigating effects of parental mindfulness induction on individual and dyadic patterns of parasympathetic, affective, and behavioral processes during a challenging parent-child interaction
 
 **Parenting Young Children Project**, Principal Investigator: Erika S. Lunkenheimer, Ph.D. 
 
@@ -64,32 +65,34 @@ Tasks: Project management; grant administration; participant recruitment; data c
 
 Tasks: Data collection and management.
 
+
 # Publications
-
-## Book Chapters
-
-1. **Wendt, K.E.** (2015). Zikomo kukumana: “Nice to meet you” In *A friend is someone you share the path with* (pp. 111-135). Fort Collins, CO: Colorado State University. 
 
 ## Journal Articles
 
 1. Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.** (Under review). Flexible or inconsistent? The impact of parent-child dyadic flexibility on child emotion regulation varies by maternal depressive symptoms. *Parenting: Science and Practice.*
 
-# Presentations
+## Book Chapters
 
-## Conferences
+1. **Wendt, K.E.** (2015). Zikomo kukumana: “Nice to meet you” In *A friend is someone you share the path with* (pp. 111-135). Fort Collins, CO: Colorado State University. 
+
+
+# Presentations
 
 1. Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
 2. **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 3. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
+
 # Extramural Funding
 
-1. National Science Foundation Graduate Research Fellowship \hfill 2018 - 2023
+1. National Science Foundation (NSF) Graduate Research Fellowship (via GRFP) \hfill 2018 - 2023
+
 
 # Intra-Unversity Honors & Awards
 
 1. Colorado State Graduate Fellowship \hfill 2018
-2. University Honors Scholar (B.S.) \hfill 2018
+2. University Honors Scholar \hfill 2018
 3. *Summa Cum Laude* distinction (B.S.) \hfill 2018
 4. College of Health & Human Sciences Outstanding Graduate \hfill 2018
 5. Albert C. and Ann E. Yates Pacesetter Scholarship \hfill 2017
@@ -106,9 +109,13 @@ Tasks: Data collection and management.
 
 **Department of Human Development and Family Studies** (HDFS), Colorado State University
 
-*Coordinator of Guest Speaker Series* \hfill 2019 - Present
+*Brown Bag Series Coordinator* \hfill 2019 - Present
 
 *Invited Panelist* - HDFS Graduate Programs Informational Meeting \hfill November 8, 2018
+
+**Intercollegiate Studies Institute** (ISI), Colorado State University
+
+*Financial Officer* \hfill  2018 - Present
 
 **Society for Prevention Research** (SPR)
 
@@ -138,22 +145,73 @@ Tasks: Data collection and management.
 
 **The Graduate School**, Colorado State University
 
+*Reviewer* - NSF GRFP Writing Workshop \hfill October 2, 2018
+
 *Invited Panelist* - NSF GRFP Informational Session \hfill August 28, 2018
 
-*Reviewer* - NSF GRFP Writing Workship \hfill October 2, 2018
-
-# Professional Development 
-
-1. National Institutes of Health (NIH) Grant-Writing Workshop (August 3, 2018) via Grant Training Center (Maria Esformes, Ph.D.)
-
-2. Heart Rate Variability Seminar (June 9-10, 2018), MindWare Technologies with Dr. Gary Berntson
-
-3. Society for Prevention Research Preconference Workshop on Bayesian Causal Mediation Analysis (May 29, 2018) with Dr. David Mackinnon et al.
 
 
+# Teaching & Mentoring Experience
 
-# Teaching and Mentoring Experience
+**Colorado State University**
+
+*Graduate School and Fellowship Application Mentor* \hfill 2018 - Present
+
+**Department of Human Development and Family Studies** (HDFS), Colorado State University
+
+*Undergraduate Teaching Assistant* - Infant & Child Development \hfill  Fall 2016
+
+**Office of International Programs**, Colorado State University
+
+*Exchange Student Mentor* \hfill  2016
+
+**African Impact & Colorado State University**, Livingstone, Zambia
+
+*Teaching Volunteer*  \hfill  Summer 2015
+
+
+
+# Community Involvement
+
+**Center for Public Deliberation**, Director: Martín Carcasson, Ph.D.
+
+*Community Associate* \hfill  2017 - Present
+
+*Senior Associate*  \hfill  2017
+
+*Student Associate* \hfill  2016
+
+**Kids at Heart**, Fort Collins & Loveland, CO
+
+*Group Leader*  \hfill  2014 - 2017
+
+**Pathways Hospice and Palliative Care**, Fort Collins, CO
+
+*Volunteer* \hfill  2016
+
+
+	                     
+# Professional Development
+
+1. National Institutes of Health (NIH) Grant-Writing Workshop (August 3, 2018) 
+
+Grant Training Center - Dr. Maria Esformes
+
+2. Heart Rate Variability Seminar (June 9-10, 2018)
+
+MindWare Technologies with Dr. Gary Berntson
+
+3. SPR Pre-Conference Workshop on Bayesian Causal Mediation Analysis (May 29, 2018)
+
+Drs. David MacKinnon, Milica Miočević, Matthew Valente, & Oscar Gonzalez
+
+4. Mental Health-Education Integration Consortium (MHEDIC) (May 3-4, 2018)
+
+
+
 
 # Computer Skills
 
 Proficient in SPSS, R, and Microsoft Office (Word, Excel, PowerPoint)
+
+Exposure to R package development, web application development (via Shiny and Leaflet), and supercomputing
