@@ -193,19 +193,10 @@ Tasks: Data collection and management.
 	                     
 # Professional Development
 
-1. National Institutes of Health (NIH) Grant-Writing Workshop (August 3, 2018) 
-
-Grant Training Center - Dr. Maria Esformes
-
-2. Heart Rate Variability Seminar (June 9-10, 2018)
-
-MindWare Technologies with Dr. Gary Berntson
-
-3. SPR Pre-Conference Workshop on Bayesian Causal Mediation Analysis (May 29, 2018)
-
-Drs. David MacKinnon, Milica Miočević, Matthew Valente, & Oscar Gonzalez
-
-4. Mental Health-Education Integration Consortium (MHEDIC) (May 3-4, 2018)
+1. NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
+2. MindWare Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
+3. Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
+4. Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
 
 
 
