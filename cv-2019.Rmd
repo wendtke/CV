@@ -82,14 +82,6 @@ Tasks: Data collection and management.
 2. **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 3. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
-## Invited Talks (Panels)
-1. 
-
-2018	HDFS Graduate Programs ConX Panelist (CSU)
-2018	PsiChi Honors Society Session Panelist (CSU)
-2018	NSF Graduate Research Fellowship Program Writing Workshop Advisor (CSU)
-2018	NSF Graduate Research Fellowship Program Informational Session Panelist (CSU)
-
 # Extramural Funding
 
 1. National Science Foundation Graduate Research Fellowship \hfill 2018 - 2023
@@ -110,35 +102,45 @@ Tasks: Data collection and management.
 12. Green & Gold Scholarship \hfill 2014
 
 
-# Professional Membership
+# Professional Membership & Service
 
-**Society for Prevention Research (SPR) Early Career Preventionist Network (ECPN)**
+**Department of Human Development and Family Studies** (HDFS), Colorado State University
+
+*Coordinator of Guest Speaker Series* \hfill 2019 - Present
+
+*Invited Panelist* - HDFS Graduate Programs Informational Meeting \hfill November 8, 2018
+
+**Society for Prevention Research** (SPR)
+
+*Abstract Student-Reviewer* \hfill 2018 - Present
+
+**SPR Early Career Preventionist Network** (ECPN)
 
 *Steering Committee Member* \hfill 2018 - Present
 
 *Awards Subcommittee Member* \hfill 2018 - Present
 
-**European Society for Prevention Research (EUSPR)**
+**European Society for Prevention Research** (EUSPR)
 
 *Early Career Forum (ECF) Member* \hfill 2018 - Present
 
-**CSU Graduate Student Council**
+**Graduate Student Council (GSC)**, Colorado State University
 
 *Department Representative* \hfill 2018 - Present
 
-# Professional Service
-
-Department of Human Development and Family Studies, Colorado State University
-
-*Coordinator of Guest Speaker Series* \hfill 2019 - Present
-
-Society for Prevention Research 
-
-*Abstract Student-Reviewer* \hfill 2018 - Present
-
-*Journal of Undergraduate Research*, Colorado State University
+***Journal of Undergraduate Research***, Colorado State University
 
 *Graduate Referee* \hfill 2018 - Present
+
+**PsiChi Honors Society**, Colorado State University
+
+*Invited Panelist* - Graduate School Informational Meeting \hfill November 5, 2018
+
+**The Graduate School**, Colorado State University
+
+*Invited Panelist* - NSF GRFP Informational Session \hfill August 28, 2018
+
+*Reviewer* - NSF GRFP Writing Workship \hfill October 2, 2018
 
 # Professional Development 
 
@@ -152,6 +154,6 @@ Society for Prevention Research
 
 # Teaching and Mentoring Experience
 
+# Computer Skills
 
-
-# References
+Proficient in SPSS, R, and Microsoft Office (Word, Excel, PowerPoint)
