@@ -217,4 +217,4 @@ Tasks: Data collection and management
 
 Proficient in SPSS, R, and Microsoft Office (Word, Excel, PowerPoint)
 
-Exposure to R package development, web application development (via Shiny and Leaflet), and supercomputing
+Exposure to R package development, web application development (via `Shiny` and `Leaflet`), and supercomputing
