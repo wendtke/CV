@@ -24,6 +24,8 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+
+
 # Education
 
 *Colorado State University*, Ph.D. in Applied Developmental Science \hfill Expected 2023
@@ -33,37 +35,39 @@ urlcolor: blue
 *Colorado State University*, B.S. in Human Development and Family Studies \hfill 2018
 
 
+
 # Research Experience
 
 **Child Trauma and Resilience Assessment Center**, Director: Stephanie Seng, M.S.
 
 *Intern* \hfill Fall 2017
 
-Tasks: Administrative and research support for SAMHSA-funded trauma-informed care and state-wide training (PI: Lise Youngblade, Ph.D.).
+Tasks: Administrative and research support for SAMHSA-funded trauma-informed care and state-wide training (PI: Lise Youngblade, Ph.D.)
 
 **Mindfulness and Family Resilience Laboratory**, Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
 *Lab Manager* \hfill  2016 - Present
 
-Tasks: Project management administration; data collection and analysis; technical and scientific writing; and recruitment, training, mentorship, and management of 10+ undergraduate research assistants.
+Tasks: Project management administration; data collection and analysis; technical and scientific writing; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
 
 Current Studies
 
-1. *Mindful Parent Observational Study* (MPOS): Analyzing behavioral and affective indicators in parent-youth interactions after randomized controlled trial of Mindfulness-enhanced Strengthening Families Program
+1. *Mindful Parent Observational Study* (MPOS): Analyzing behavioral and affective indicators in parent-youth interactions in randomized controlled trial of Mindfulness-enhanced Strengthening Families Program (MSFP)
 
-2. *Project Mind-Heart* (PMH): Investigating effects of parental mindfulness induction on individual and dyadic patterns of parasympathetic, affective, and behavioral processes during a challenging parent-child interaction
+2. *Project Mind-Heart* (PMH): Investigating effects of parental mindfulness induction on individual and dyadic patterns of parasympathetic, affective, and behavioral processes during challenging parent-child interaction
 
 **Parenting Young Children Project**, Principal Investigator: Erika S. Lunkenheimer, Ph.D. 
 
 *Project Manager* \hfill 2015 - 2018
 
-Tasks: Project management; grant administration; participant recruitment; data collection and analysis.
+Tasks: Project management; grant administration; participant recruitment; data collection and analysis
 
 **Cognitive Neuroimaging Laboratory**, Director & Principal Investigator: Carol A. Seger, Ph.D. 
 
 *Honors Undergraduate Research Scholar* \hfill 2014 - 2015
 
-Tasks: Data collection and management.
+Tasks: Data collection and management
+
 
 
 # Publications
@@ -77,6 +81,7 @@ Tasks: Data collection and management.
 1. **Wendt, K.E.** (2015). Zikomo kukumana: “Nice to meet you” In *A friend is someone you share the path with* (pp. 111-135). Fort Collins, CO: Colorado State University. 
 
 
+
 # Presentations
 
 1. Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
@@ -84,9 +89,11 @@ Tasks: Data collection and management.
 3. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
 
+
 # Extramural Funding
 
-1. National Science Foundation (NSF) Graduate Research Fellowship (via GRFP) \hfill 2018 - 2023
+1. National Science Foundation (NSF) Graduate Research Fellowship \hfill 2018 - 2023
+
 
 
 # Intra-Unversity Honors & Awards
@@ -103,6 +110,7 @@ Tasks: Data collection and management.
 10. Spots Scholarship \hfill 2015
 11. Honors Scholarship \hfill 2014
 12. Green & Gold Scholarship \hfill 2014
+
 
 
 # Professional Membership & Service
@@ -131,13 +139,13 @@ Tasks: Data collection and management.
 
 *Invited Panelist* - HDFS Graduate Programs Informational Meeting \hfill November 8, 2018
 
+**Graduate Student Council** (GSC), Colorado State University
+
+*Department Representative* \hfill 2018 - Present
+
 **Intercollegiate Studies Institute** (ISI), Colorado State University
 
 *Financial Officer* \hfill  2018 - Present
-
-**Graduate Student Council (GSC)**, Colorado State University
-
-*Department Representative* \hfill 2018 - Present
 
 ***Journal of Undergraduate Research***, Colorado State University
 
@@ -152,7 +160,6 @@ Tasks: Data collection and management.
 *Reviewer* - NSF GRFP Writing Workshop \hfill October 2, 2018
 
 *Invited Panelist* - NSF GRFP Informational Session \hfill August 28, 2018
-
 
 
 
