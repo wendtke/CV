@@ -36,17 +36,14 @@ urlcolor: blue
 
 \hfill University Honors Scholar & *Summa Cum Laude* distinction
 
-\hfill Advisor: Dr. J. Douglas Coatsworth
-
-
 
 
 # Research Experience
 
 **Mindfulness and Family Resilience Laboratory**, Lab Manager \hfill  2016 - Present
 
- Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
-
+Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
+- more detail
 Project management administration; data collection and analysis; technical and scientific writing; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
 
 Current Studies
@@ -59,19 +56,21 @@ Current Studies
 
 Director: Stephanie Seng, M.S.
 
-Administrative and research support for SAMHSA-funded trauma-informed care and state-wide training (PI: Lise Youngblade, Ph.D.)
+Administrative and research support - more detail - for SAMHSA-funded trauma-informed care and state-wide training (PI: Lise Youngblade, Ph.D.)
 
 **Parenting Young Children Project**, Project Manager \hfill 2015 - 2018
 
-Principal Investigator: Erika S. Lunkenheimer, Ph.D. 
+Principal Investigator: Erika S. Lunkenheimer, Ph.D.
 
-Project management; grant administration; participant recruitment; data collection and analysis
+NIH-funded K01 project using cutting-edge physiological and observational procedures to explore parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, goal-oriented behaviors, and physiology over time. 
+
+Project management; grant administration; participant recruitment; data collection and analysis 
 
 **Cognitive Neuroimaging Laboratory**, Honors Undergraduate Research Scholar \hfill 2014 - 2015
 
 Director & Principal Investigator: Carol A. Seger, Ph.D. 
 
-Data collection and management
+Data collection and management - describe
 
 
 
@@ -80,6 +79,8 @@ Data collection and management
 ## Journal Articles
 
 1. Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent? The impact of parent-child dyadic flexibility on child emotion regulation varies by maternal depressive symptoms. Manuscript submitted for publication.
+2. Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of parental mindfulness induction on physiological regulation and mood during challenging parent-child interactions. Manuscript in preparation.
+3. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Parental moderators of effects of mindfulness induction on parent-child interactions. Manuscript in preparation.
 
 ## Book Chapters
 
@@ -89,9 +90,10 @@ Data collection and management
 
 # Presentations
 
-1. Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
-2. **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
-3. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
+1. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. (Abstract in review). Effects of parental mindfulness meditation on respiratory sinus arrhythmia and mood during challenging parent-child interactions. Poster to be presented at Society for Prevention Research Annual Meeting, San Francisco, CA.
+2. Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
+3. **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
+4. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
 
 
