@@ -48,9 +48,9 @@ Project administration; data collection using complex physiological and observat
 
 Current Studies
 
-1. *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP).
+1. *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP)
 
-2. *Project Mind-Heart* (PMH): Investigate effects of parental mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions.
+2. *Project Mind-Heart* (PMH): Investigate effects of parental mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions
 
 **Child Trauma and Resilience Assessment Center**, Intern \hfill Fall 2017
 
@@ -62,13 +62,13 @@ Administrative and research support for SAMHSA-funded projects (PI: Lise Youngbl
 
 Principal Investigator: Erika S. Lunkenheimer, Ph.D.
 
-Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection and analysis using dynamic systems-based methods and modeling for NIH-funded longitudinal study *investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, goal-oriented behaviors, and physiology and related risk for child maltreatment*
+Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection and analysis using dynamic systems-based methods and modeling for NIH-funded longitudinal study *investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, goal-oriented behaviors, and physiology and associated risk of child maltreatment*
 
 **Cognitive Neuroimaging Laboratory**, Honors Undergraduate Research Scholar \hfill 2014 - 2015
 
 Director & Principal Investigator: Carol A. Seger, Ph.D. 
 
-Data collection (within undergraduate psychology research pool) and subsequent data processing for disseration research concerning learning and memory 
+Data collection (within undergraduate psychology research pool) and subsequent data processing for disseration research concerning learning and memory
 
 
 
@@ -79,6 +79,10 @@ Data collection (within undergraduate psychology research pool) and subsequent d
 1. Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent? The impact of parent-child dyadic flexibility on child emotion regulation varies by maternal depressive symptoms. Manuscript submitted for publication.
 2. Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of parental mindfulness induction on physiological regulation and mood during challenging parent-child interactions. Manuscript in preparation.
 3. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Parental moderators of effects of mindfulness induction on parent-child interactions. Manuscript in preparation.
+4. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Dyadic concordance of respiratory sinus arrhythmia during a challenging parent-child task. Manuscript in preparation.
+5. **Wendt, K.E.** & Coatsworth, J.D. Conversation cadence as an indicator of intra- and interpersonal mindfulness in mother-youth interactions. Manuscript in preparation.
+
+
 
 ## Book Chapters
 
