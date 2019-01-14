@@ -43,34 +43,32 @@ urlcolor: blue
 **Mindfulness and Family Resilience Laboratory**, Lab Manager \hfill  2016 - Present
 
 Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
-- more detail
-Project management administration; data collection and analysis; technical and scientific writing; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
+
+Project administration; data collection using complex physiological and observational equipment; data analysis via dynamic systems-based methods and modeling; technical and scientific writing; R programming; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
 
 Current Studies
 
-1. *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators in structured parent-youth interaction completed as part of randomized controlled trial of Mindfulness-enhanced Strengthening Families Program (MSFP)
+1. *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP).
 
-2. *Project Mind-Heart* (PMH): Investigate effects of parental mindfulness induction on individual and dyadic patterns of parasympathetic, affective, and behavioral indicators during challenging parent-child interaction
+2. *Project Mind-Heart* (PMH): Investigate effects of parental mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions.
 
 **Child Trauma and Resilience Assessment Center**, Intern \hfill Fall 2017
 
 Director: Stephanie Seng, M.S.
 
-Administrative and research support - more detail - for SAMHSA-funded trauma-informed care and state-wide training (PI: Lise Youngblade, Ph.D.)
+Administrative and research support for SAMHSA-funded projects (PI: Lise Youngblade, Ph.D.) focused on state-wide trauma-informed training, development of adult trauma assessment, and trauma assessment provision for high-risk adolescents
 
-**Parenting Young Children Project**, Project Manager \hfill 2015 - 2018
+**Parenting Young Children Project** (NIH K01), Project Manager \hfill 2015 - 2018
 
 Principal Investigator: Erika S. Lunkenheimer, Ph.D.
 
-NIH-funded K01 project using cutting-edge physiological and observational procedures to explore parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, goal-oriented behaviors, and physiology over time. 
-
-Project management; grant administration; participant recruitment; data collection and analysis 
+Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection and analysis using dynamic systems-based methods and modeling for NIH-funded longitudinal study *investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, goal-oriented behaviors, and physiology and related risk for child maltreatment*
 
 **Cognitive Neuroimaging Laboratory**, Honors Undergraduate Research Scholar \hfill 2014 - 2015
 
 Director & Principal Investigator: Carol A. Seger, Ph.D. 
 
-Data collection and management - describe
+Data collection (within undergraduate psychology research pool) and subsequent data processing for disseration research concerning learning and memory 
 
 
 
