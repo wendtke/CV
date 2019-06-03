@@ -69,34 +69,38 @@ Data collection (within undergraduate psychology research pool) and subsequent d
 
 
 
-# Publications
+# Peer-Reviewed Publications
 
-## Peer-Reviewed Journal Articles
+## Under Review
 
-### Under Review
+Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent? The impact of parent-child dyadic flexibility on child emotion regulation varies by maternal depressive symptoms. Manuscript under review.
 
-1. Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent? The impact of parent-child dyadic flexibility on child emotion regulation varies by maternal depressive symptoms. Manuscript under review.
+## In Preparation
 
-### In Preparation
+Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. Machine learning and latent class analysis of the Medicare Outcomes Health Survey. Manuscript in preparation.
 
-3. Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. Machine learning and latent class analysis of the Medicare Outcomes Health Survey. Manuscript in preparation.
-2. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of mindfulness induction on parents' autonomic regulation and mood. Manuscript in preparation.
-1. Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of mindfulness induction on parents' autonomic regulation and mood during challenging parent-child interactions. Manuscript in preparation.
+**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of mindfulness induction on parents' autonomic regulation and mood. Manuscript in preparation.
+
+Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of mindfulness induction on parents' autonomic regulation and mood during challenging parent-child interactions. Manuscript in preparation.
 
 
-## Book Chapters
+### Book Chapters
 
-1. **Wendt, K.E.** (2015). Zikomo kukumana: “Nice to meet you” In *A friend is someone you share the path with* (pp. 111-135). Fort Collins, CO: Colorado State University. 
+**Wendt, K.E.** (2015). Zikomo kukumana: “Nice to meet you” In *A friend is someone you share the path with* (pp. 111-135). Fort Collins, CO: Colorado State University. 
 
 
 
 # Presentations
 
-5. Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. (2019, May). Informing precision prevention using latent class analysis. Presentation in the Sloboda & Bukoski Cup at the Society for Prevention Research Annual Meeting, San Francisco, CA.
-4. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. (2019, May). Effects of mindfulness induction on parents' parasympathetic activity in parent-child interactions. Poster presented at Society for Prevention Research Annual Meeting, San Francisco, CA.
-3. Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
-2. **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
-1. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
+Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. (2019, May). Informing precision prevention using latent class analysis. Presentation in the Sloboda & Bukoski Cup at the Society for Prevention Research Annual Meeting, San Francisco, CA.
+
+**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. (2019, May). Effects of mindfulness induction on parents' parasympathetic activity in parent-child interactions. Poster presented at Society for Prevention Research Annual Meeting, San Francisco, CA.
+
+Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
+
+**Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
+
+**Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
 
 
@@ -118,7 +122,7 @@ Pearl E. Betts Graduate Scholarship \hfill 2019
 
 Departmental Travel Grant (SPR Sloboda & Bukoski Cup) \hfill 2019
 
-Society for Prevention Research (SPR) Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
+SPR Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
 
 Uncoast Unconf Travel Grant \hfill 2019
 
@@ -130,7 +134,7 @@ Colorado State Graduate Fellowship \hfill 2018
 
 College of Health & Human Sciences Outstanding Graduate \hfill 2018
 
-National Science Foundation (NSF) Graduate Research Fellowship \hfill 2018 - 2023
+National Science Foundation Graduate Research Fellowship \hfill 2018 - 2023
 
 Albert C. and Ann E. Yates Pacesetter Scholarship \hfill 2017
 
