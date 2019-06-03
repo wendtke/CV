@@ -43,7 +43,7 @@ Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
 Project administration; data collection using complex physiological and observational equipment; data analysis via dynamic systems-based methods and modeling; technical and scientific writing; R programming; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
 
-Current Studies
+## Current Studies
 
 1. *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP)
 
@@ -118,116 +118,97 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 # Honors & Awards
 
-Pearl E. Betts Graduate Scholarship \hfill 2019
-
-Departmental Travel Grant (SPR Sloboda & Bukoski Cup) \hfill 2019
-
-SPR Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
-
-Uncoast Unconf Travel Grant \hfill 2019
-
-The Graduate School Travel Grant (Uncoast Unconf) \hfill 2019
-
-Departmental Travel Grant (Uncoast Unconf) \hfill 2019
-
-Colorado State Graduate Fellowship \hfill 2018
-
-College of Health & Human Sciences Outstanding Graduate \hfill 2018
-
-National Science Foundation Graduate Research Fellowship \hfill 2018 - 2023
-
-Albert C. and Ann E. Yates Pacesetter Scholarship \hfill 2017
-
-Anne Blair Scholarship \hfill 2017
-
-College of Health and Human Sciences Students First Scholarship \hfill 2016
-
-Spots Scholarship \hfill 2015
-
-Honors Scholarship \hfill 2014 - 2018
-
-Green & Gold Scholarship \hfill 2014 - 2018
-
+- Pearl E. Betts Graduate Scholarship \hfill 2019
+- Departmental Travel Grant (SPR Sloboda & Bukoski Cup) \hfill 2019
+- SPR Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
+- Uncoast Unconf Travel Grant \hfill 2019
+- The Graduate School Travel Grant (Uncoast Unconf) \hfill 2019
+- Departmental Travel Grant (Uncoast Unconf) \hfill 2019
+- Colorado State Graduate Fellowship \hfill 2018
+- College of Health & Human Sciences Outstanding Graduate \hfill 2018
+- National Science Foundation Graduate Research Fellowship \hfill 2018 - 2023
+- Albert C. and Ann E. Yates Pacesetter Scholarship \hfill 2017
+- Anne Blair Scholarship \hfill 2017
+- College of Health and Human Sciences Students First Scholarship \hfill 2016
+- Spots Scholarship \hfill 2015
+- Honors Scholarship \hfill 2014 - 2018
+- Green & Gold Scholarship \hfill 2014 - 2018
 
 
 # Professional Membership & Service
 
 **Society for Prevention Research** (SPR) \hfill 2018 - Present
 
-Abstract Student-Reviewer
-
-Symposuium Moderator
-
+- Abstract Student-Reviewer
+- Symposuium Moderator
+ 
 **SPR Early Career Preventionist Network** (ECPN) \hfill 2018 - Present
 
-Steering Committee Member
-
-Awards Subcommittee Member
+- Steering Committee Member
+- Awards Subcommittee Member
 
 **European Society for Prevention Research** (EUSPR) \hfill 2018 - Present
 
-Abstract Student-Reviewer
+- Abstract Student-Reviewer
 
 **EUSPR Early Career Forum** (ECF) \hfill 2018 - Present
 
-Member
+- Member
 
 # University Membership & Service
 
 **Graduate Student Council** (GSC), Colorado State University \hfill 2018 - Present
 
-Department Representative 
-
-Travel Award Reviewer
+- Department Representative 
+- Travel Award Reviewer
 
 **Intercollegiate Studies Institute** (ISI), Colorado State University \hfill  2018 - Present
 
-Financial Officer
+- Financial Officer
 
 ***Journal of Undergraduate Research***, Colorado State University  \hfill 2018 - Present
 
-Graduate Referee
+- Graduate Referee
 
 **The Graduate School**, Colorado State University
 
-Reviewer - NSF GRFP Writing Workshop \hfill October 2, 2018
-
-Panelist - NSF GRFP Informational Session \hfill August 28, 2018
+- Reviewer - NSF GRFP Writing Workshop \hfill October 2, 2018
+- Panelist - NSF GRFP Informational Session \hfill August 28, 2018
 
 
 # Departmental Service
 
 **Department of Human Development and Family Studies** (HDFS) \hfill 2019 - Present
 
-Speaker Series Coordinator 
+- Speaker Series Coordinator 
 
 
 # Professional Development Activities
 
-5. Uncoast Unconf for R \hfill April 14-16, 2019
-4. NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
-3. MindWare Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
-2. Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
-1. Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
+- Uncoast Unconf with R \hfill April 14-16, 2019
+- NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
+- Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
+- Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
+- Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
 
 
 # Teaching & Mentoring Experience
 
 **Colorado State University** \hfill 2018 - Present
 
-Graduate School and Fellowship Application Mentor
+- Graduate School and Fellowship Application Mentor
 
 **HDFS Department**, Colorado State University \hfill  Fall 2016
 
-Undergraduate Teaching Assistant - Infant & Child Development 
+- Undergraduate Teaching Assistant for Infant & Child Development 
 
 **Office of International Programs**, Colorado State University \hfill  2016
 
-Exchange Student Mentor
+- Exchange Student Mentor
 
 **African Impact & Colorado State University**, Livingstone, Zambia \hfill  Summer 2015
 
-Teaching Volunteer
+- Teaching Volunteer
 
 
 
@@ -235,14 +216,14 @@ Teaching Volunteer
 
 **Center for Public Deliberation** \hfill 2016 - Present
 
-Community Associate
+- Community Associate
 
 Director: Martín Carcasson, Ph.D.
 
 **Kids at Heart**, Fort Collins & Loveland, CO \hfill  2014 - 2017
 
-Group Leader  
+- Group Leader  
 
 **Pathways Hospice and Palliative Care**, Fort Collins, CO \hfill  2016
 
-Volunteer 
+- Volunteer 
