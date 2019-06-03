@@ -24,9 +24,6 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-change template
-https://github.com/sctyner/sctyner.github.io/blob/master/static/resume/tyner-cv-pd.Rmd
-
 # Education
 
 *Colorado State University*, Ph.D. in Applied Developmental Science \hfill Expected 2023
@@ -36,7 +33,6 @@ https://github.com/sctyner/sctyner.github.io/blob/master/static/resume/tyner-cv-
 *Colorado State University*, B.S. in Human Development and Family Studies \hfill 2018
 
 \hfill University Honors Scholar & *Summa Cum Laude* distinction
-
 
 
 # Research Experience
@@ -75,12 +71,18 @@ Data collection (within undergraduate psychology research pool) and subsequent d
 
 # Publications
 
-## Journal Articles
+## Peer-Reviewed Journal Articles
+
+### Under Review
 
 1. Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent? The impact of parent-child dyadic flexibility on child emotion regulation varies by maternal depressive symptoms. Manuscript under review.
-2. Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of parental mindfulness induction on autonomic regulation and mood during challenging parent-child interactions. Manuscript in preparation.
-3. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of mindfulness induction on parental autonomic regulation and mood. Manuscript in preparation.
-4. SPR Cup paper
+
+### In Preparation
+
+3. Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. Machine learning and latent class analysis of the Medicare Outcomes Health Survey. Manuscript in preparation.
+2. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of mindfulness induction on parents' autonomic regulation and mood. Manuscript in preparation.
+1. Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of mindfulness induction on parents' autonomic regulation and mood during challenging parent-child interactions. Manuscript in preparation.
+
 
 ## Book Chapters
 
@@ -90,36 +92,33 @@ Data collection (within undergraduate psychology research pool) and subsequent d
 
 # Presentations
 
-1. Paper session moderation Do parents matter? Implications of parenting characteristics and practices on children's adjustment and risk behaviors
-1. SPR Cup presentation
-2. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. (2019, May). Effects of parental mindfulness meditation on respiratory sinus arrhythmia and mood during challenging parent-child interactions. Poster presented at Society for Prevention Research Annual Meeting, San Francisco, CA.
+5. Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. (2019, May). Informing precision prevention using latent class analysis. Presentation in the Sloboda & Bukoski Cup at the Society for Prevention Research Annual Meeting, San Francisco, CA.
+4. **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. (2019, May). Effects of mindfulness induction on parents' parasympathetic activity in parent-child interactions. Poster presented at Society for Prevention Research Annual Meeting, San Francisco, CA.
 3. Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
-4. **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
-5. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
+2. **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
+1. **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
 
-# Grantsmanship & Funding
 
-GSC lunches for Speaker Series
+# Software Development
 
-## Under review
+**Wendt, K.E.** & Zhang, S. `psyphr`: An open source R package to wrangle psychophysiological data from proprietary systems. In active development.
 
-Mind-Life PEACE Grant Letter of Intent (Submitted March 2019)
 
-## In preparation 
+# Computer Skills
 
-NCCIH R01 Proposal
+- R language (e.g., RStudio, R Markdown, Shiny)
+- Git and GitHub
+- SPSS 
 
 
 # Honors & Awards
 
-Departmental Travel Grant (SPR Cup) \hfill 2019
-
 Pearl E. Betts Graduate Scholarship \hfill 2019
 
-Society for Prevention Research (SPR) Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
+Departmental Travel Grant (SPR Sloboda & Bukoski Cup) \hfill 2019
 
-Graduate Student Council Team Travel Award (SPR Cup) \hfill 2019 [offered but not awarded due to institutional regulations]
+Society for Prevention Research (SPR) Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
 
 Uncoast Unconf Travel Grant \hfill 2019
 
@@ -153,7 +152,7 @@ Green & Gold Scholarship \hfill 2014 - 2018
 
 Abstract Student-Reviewer
 
-Symposium Volunteer Chair
+Symposuium Moderator
 
 **SPR Early Career Preventionist Network** (ECPN) \hfill 2018 - Present
 
@@ -192,13 +191,20 @@ Reviewer - NSF GRFP Writing Workshop \hfill October 2, 2018
 Panelist - NSF GRFP Informational Session \hfill August 28, 2018
 
 
-
 # Departmental Service
 
 **Department of Human Development and Family Studies** (HDFS) \hfill 2019 - Present
 
 Speaker Series Coordinator 
 
+
+# Professional Development Activities
+
+5. Uncoast Unconf for R \hfill April 14-16, 2019
+4. NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
+3. MindWare Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
+2. Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
+1. Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
 
 
 # Teaching & Mentoring Experience
@@ -236,24 +242,3 @@ Group Leader
 **Pathways Hospice and Palliative Care**, Fort Collins, CO \hfill  2016
 
 Volunteer 
-
-
-	                     
-# Professional Development
-
-1. Uncoast Unconf for R \hfill April 14-16, 2019
-2. NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
-3. MindWare Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
-4. Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
-5. Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
-
-
-# Computer Skills
-
-Programming and statistical languages: Proficient in `R` (via `RStudio`;  `RMarkdown`) and SPSS
-
-Collaboration: GitHub, Slack, Google Drive
-
-Exposure to `R` package development, web application development (via `Shiny` and `Leaflet`), and supercomputing
-
-Rich Text Formats via LibreOffice and Microsoft Office (Word, Excel, PowerPoint) 
