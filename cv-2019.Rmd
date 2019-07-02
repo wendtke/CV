@@ -26,6 +26,8 @@ urlcolor: blue
 
 # Education
 
+National Science Foundation Graduate Research Fellow \hfill 2018 - 2023
+
 *Colorado State University*, Ph.D. in Applied Developmental Science \hfill Expected 2023
 
 *Colorado State University*, M.S. in Prevention Science \hfill Expected 2020
@@ -47,19 +49,21 @@ Project administration; data collection using complex physiological and observat
 
 1. *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP)
 
-2. *Project Mind-Heart* (PMH): Investigate effects of parental mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions
+2. *Project Mind-Heart* (PMH): Investigate effects of brief mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions
 
-**Child Trauma and Resilience Assessment Center**, Intern \hfill Fall 2017
-
-Director: Stephanie Seng, M.S.
-
-Administrative and research support for SAMHSA-funded projects (PI: Lise Youngblade, Ph.D.) focused on state-wide trauma-informed training, development of adult trauma assessment, and trauma assessment provision for high-risk adolescents
-
-**Parenting Young Children Project** (NIH K01), Project Manager \hfill 2015 - 2018
+**Parenting Young Children Project** (NICHD), Project Manager \hfill 2015 - 2018
 
 Principal Investigator: Erika S. Lunkenheimer, Ph.D.
 
-Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection and analysis using dynamic systems-based methods and modeling for NIH-funded longitudinal study *investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, goal-oriented behaviors, and physiology and associated risk of child maltreatment*
+Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection and analysis using dynamic systems-based methods and modeling for NIH-funded longitudinal study investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, behaviors, and physiology and associated risk of child maltreatment and psychopathology
+
+**Child Trauma and Resilience Assessment Center**, Intern \hfill Fall 2017
+
+Principal Investigator: Lise Youngblade, Ph.D.
+
+Director: Stephanie Seng, M.S.
+
+Administrative and research support for SAMHSA-funded projects focused on state-wide trauma-informed training, development of adult trauma assessment, and trauma assessment provision for high-risk adolescents
 
 **Cognitive Neuroimaging Laboratory**, Honors Undergraduate Research Scholar \hfill 2014 - 2015
 
@@ -67,7 +71,23 @@ Director & Principal Investigator: Carol A. Seger, Ph.D.
 
 Data collection (within undergraduate psychology research pool) and subsequent data processing for disseration research concerning learning and memory
 
+# Translational Research Experience
 
+**SOS Outreach**, Student Researcher \hfill 2019 - Present
+
+Principal Investigator: J. Douglas Coatsworth, Ph.D. 
+
+Executive Director: Seth Erhlich 
+
+Qualitative and quantitative data management and analysis; study design and planning; and grant-writing to help bolster research-base for outdoor-based  mentorship and leadership program for at-risk and marginalized youth.
+
+**Douglas County CSU Extension Office**, Program Evaluator \hfill 2019 - Present
+
+Principal Investigator: David MacPhee, Ph.D. 
+
+Program Director: Kyle Christensen
+
+Evaluate efficacy and effectiveness of Youth Leadership Summit (Fall 2019) for diverse Colorado youth.
 
 # Peer-Reviewed Publications
 
@@ -77,17 +97,13 @@ Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent
 
 ## In Preparation
 
-Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. Machine learning and latent class analysis of the Medicare Outcomes Health Survey. Manuscript in preparation.
+Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T., Prince, M. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparsion of big data modeling approaches. Manuscript in preparation.
 
-**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of mindfulness induction on parents' autonomic regulation and mood. Manuscript in preparation.
+Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic regulation and mood during challenging parent-child interactions. Manuscript in preparation.
 
-Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of mindfulness induction on parents' autonomic regulation and mood during challenging parent-child interactions. Manuscript in preparation.
+**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of brief mindfulness induction on parents' autonomic regulation. Manuscript in preparation.
 
-
-### Book Chapters
-
-**Wendt, K.E.** (2015). Zikomo kukumana: “Nice to meet you” In *A friend is someone you share the path with* (pp. 111-135). Fort Collins, CO: Colorado State University. 
-
+Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness inudction on parents' mood regulation during challenging parent-child interaction.
 
 
 # Presentations
@@ -96,12 +112,11 @@ Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. (2019,
 
 **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. (2019, May). Effects of mindfulness induction on parents' parasympathetic activity in parent-child interactions. Poster presented at Society for Prevention Research Annual Meeting, San Francisco, CA.
 
-Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Brown Bag Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
+Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
 
 **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
 **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
-
 
 
 # Software Development
@@ -109,24 +124,22 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **Wendt, K.E.** & Zhang, S. `psyphr`: An open source R package to wrangle psychophysiological data from proprietary systems. In active development.
 
 
-# Computer Skills
-
-- R language (e.g., RStudio, R Markdown, Shiny)
-- Git and GitHub
-- SPSS 
-
-
 # Honors & Awards
 
+## Graduate
+
 - Pearl E. Betts Graduate Scholarship \hfill 2019
-- Departmental Travel Grant (SPR Sloboda & Bukoski Cup) \hfill 2019
+- HDFS Department Travel Grant (Society for Prevention Research) \hfill 2019
 - SPR Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
 - Uncoast Unconf Travel Grant \hfill 2019
-- The Graduate School Travel Grant (Uncoast Unconf) \hfill 2019
+- CSU Graduate School Travel Grant (Uncoast Unconf) \hfill 2019
 - Departmental Travel Grant (Uncoast Unconf) \hfill 2019
-- Colorado State Graduate Fellowship \hfill 2018
+- Colorado State University Graduate Fellowship \hfill 2018
 - College of Health & Human Sciences Outstanding Graduate \hfill 2018
 - National Science Foundation Graduate Research Fellowship \hfill 2018 - 2023
+
+## Undergraduate
+
 - Albert C. and Ann E. Yates Pacesetter Scholarship \hfill 2017
 - Anne Blair Scholarship \hfill 2017
 - College of Health and Human Sciences Students First Scholarship \hfill 2016
@@ -135,61 +148,12 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - Green & Gold Scholarship \hfill 2014 - 2018
 
 
-# Professional Membership & Service
+# Professional Membership
 
-**Society for Prevention Research** (SPR) \hfill 2018 - Present
-
-- Abstract Student-Reviewer
-- Symposuium Moderator
- 
-**SPR Early Career Preventionist Network** (ECPN) \hfill 2018 - Present
-
-- Steering Committee Member
-- Awards Subcommittee Member
-
-**European Society for Prevention Research** (EUSPR) \hfill 2018 - Present
-
-- Abstract Student-Reviewer
-
-**EUSPR Early Career Forum** (ECF) \hfill 2018 - Present
-
-- Member
-
-# University Membership & Service
-
-**Graduate Student Council** (GSC), Colorado State University \hfill 2018 - Present
-
-- Department Representative 
-- Travel Award Reviewer
-
-**Intercollegiate Studies Institute** (ISI), Colorado State University \hfill  2018 - Present
-
-- Financial Officer
-
-***Journal of Undergraduate Research***, Colorado State University  \hfill 2018 - Present
-
-- Graduate Referee
-
-**The Graduate School**, Colorado State University
-
-- Reviewer - NSF GRFP Writing Workshop \hfill October 2, 2018
-- Panelist - NSF GRFP Informational Session \hfill August 28, 2018
-
-
-# Departmental Service
-
-**Department of Human Development and Family Studies** (HDFS) \hfill 2019 - Present
-
-- Speaker Series Coordinator 
-
-
-# Professional Development Activities
-
-- Uncoast Unconf with R \hfill April 14-16, 2019
-- NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
-- Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
-- Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
-- Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
+- Society for Prevention Research (SPR) \hfill 2018 - Present
+- SPR Early Career Preventionist Network (ECPN) \hfill 2018 - Present
+- European Society for Prevention Research (EUSPR) \hfill 2018 - Present
+- EUSPR Early Career Forum (ECF) \hfill 2018 - Present
 
 
 # Teaching & Mentoring Experience
@@ -211,8 +175,47 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - Teaching Volunteer
 
 
+# Service
 
-# Community Involvement
+## Professional
+
+**Society for Prevention Research** (SPR) \hfill 2018 - Present
+
+- Abstract Student-Reviewer
+- Symposuium Moderator
+ 
+**SPR Early Career Preventionist Network** (ECPN) \hfill 2018 - Present
+
+- Steering Committee Member
+- Awards Subcommittee Member
+
+**European Society for Prevention Research** (EUSPR) \hfill 2018 - Present
+
+- Abstract Student-Reviewer
+
+
+## University & Department
+
+**Graduate Student Council** (GSC), Colorado State University \hfill 2018 - Present
+
+- Department Representative 
+- Travel Award Reviewer
+
+***Journal of Undergraduate Research***, Colorado State University  \hfill 2018 - Present
+
+- Graduate Referee
+
+**The Graduate School**, Colorado State University
+
+- Reviewer - NSF GRFP Writing Workshop \hfill October 2, 2018
+- Panelist - NSF GRFP Informational Session \hfill August 28, 2018
+
+**Department of Human Development and Family Studies** (HDFS) \hfill 2019 - Present
+
+- Speaker Series Coordinator 
+
+
+## Community 
 
 **Center for Public Deliberation** \hfill 2016 - Present
 
@@ -227,3 +230,20 @@ Director: Martín Carcasson, Ph.D.
 **Pathways Hospice and Palliative Care**, Fort Collins, CO \hfill  2016
 
 - Volunteer 
+
+
+# Computer Skills
+
+- R language and extras (e.g., RStudio, R Markdown, Shiny)
+- Git and GitHub
+- SPSS 
+
+
+# Professional Development Activities
+
+- Uncoast Unconf with R \hfill April 14-16, 2019
+- NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
+- Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
+- Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
+- Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
+
