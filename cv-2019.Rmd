@@ -13,6 +13,7 @@ address: "Behavioral Sciences Building 438/439 · Colorado State University  · 
 fontawesome: yes
 email: Kathleen.Wendt@colostate.edu
 github: wendtke
+twitter: KathleenWendt8
 updated: yes
 
 keywords: R Markdown, academic CV, template
@@ -34,12 +35,12 @@ National Science Foundation Graduate Research Fellow \hfill 2018 - 2023
 
 *Colorado State University*, B.S. in Human Development and Family Studies \hfill 2018
 
-\hfill University Honors Scholar & *Summa Cum Laude* distinction
+\hfill University Honors Scholar & *Summa Cum Laude*
 
 
 # Research Experience
 
-**Mindfulness and Family Resilience Laboratory**, Lab Manager \hfill  2016 - Present
+**Mindfulness and Family Resilience Laboratory** (MFR), Lab Manager \hfill  2016 - Present
 
 Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
@@ -73,13 +74,13 @@ Data collection (within undergraduate psychology research pool) and subsequent d
 
 # Translational Research Experience
 
-**SOS Outreach**, Student Researcher \hfill 2019 - Present
+**SOS Outreach**, Research Consultant \hfill 2019 - Present
 
 Principal Investigator: J. Douglas Coatsworth, Ph.D. 
 
 Executive Director: Seth Erhlich 
 
-Qualitative and quantitative data management and analysis; study design and planning; and grant-writing to help bolster research-base for outdoor-based  mentorship and leadership program for at-risk and marginalized youth.
+Qualitative and quantitative data management and analysis; study design and planning; grant-writing to help bolster research-base for outdoor-based  mentorship and leadership program for at-risk and marginalized youth
 
 **Douglas County CSU Extension Office**, Program Evaluator \hfill 2019 - Present
 
@@ -87,7 +88,7 @@ Principal Investigator: David MacPhee, Ph.D.
 
 Program Director: Kyle Christensen
 
-Evaluate efficacy and effectiveness of Youth Leadership Summit (Fall 2019) for diverse Colorado youth.
+Evaluate efficacy and effectiveness of Youth Leadership Summit (October 17-21 2019) of diverse Colorado youth.
 
 # Peer-Reviewed Publications
 
@@ -99,11 +100,11 @@ Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent
 
 Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T., Prince, M. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparsion of big data modeling approaches. Manuscript in preparation.
 
-Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic regulation and mood during challenging parent-child interactions. Manuscript in preparation.
+Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic regulation during challenging parent-child interactions. Manuscript in preparation.
 
 **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of brief mindfulness induction on parents' autonomic regulation. Manuscript in preparation.
 
-Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness inudction on parents' mood regulation during challenging parent-child interaction.
+Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' mood regulation during challenging parent-child interaction.
 
 
 # Presentations
@@ -246,4 +247,3 @@ Director: Martín Carcasson, Ph.D.
 - Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
 - Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
 - Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
-
