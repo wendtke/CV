@@ -100,11 +100,11 @@ Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent
 
 Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T., Prince, M. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparsion of big data modeling approaches. Manuscript in preparation.
 
-Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic regulation during challenging parent-child interactions. Manuscript in preparation.
+Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic mode during challenging parent-child interactions. Manuscript in preparation.
 
-**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of brief mindfulness induction on parents' autonomic regulation. Manuscript in preparation.
+**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of brief mindfulness induction on parents' autonomic mode. Manuscript in preparation.
 
-Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' mood regulation during challenging parent-child interaction.
+Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' mood regulation during challenging parent-child interactions.
 
 
 # Presentations
@@ -129,6 +129,8 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 ## Graduate
 
+- RStudio Travel Award for R/Pharma \hfill 2019
+- R/Pharma Travel Award \hfill 2019
 - Pearl E. Betts Graduate Scholarship \hfill 2019
 - HDFS Department Travel Grant (Society for Prevention Research) \hfill 2019
 - SPR Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
@@ -237,11 +239,12 @@ Director: Martín Carcasson, Ph.D.
 
 - R language and extras (e.g., RStudio, R Markdown, Shiny)
 - Git and GitHub
-- SPSS 
+- SPSS (although I actively avoid using it)
 
 
 # Professional Development Activities
 
+- R/Pharma conference \hfill August 21-23, 2019
 - Uncoast Unconf with R \hfill April 14-16, 2019
 - NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
 - Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
