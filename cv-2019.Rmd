@@ -13,7 +13,7 @@ address: "Behavioral Sciences Building 438/439 · Colorado State University  · 
 fontawesome: yes
 email: Kathleen.Wendt@colostate.edu
 github: wendtke
-twitter: KathleenWendt8
+twitter: wendtke
 updated: yes
 
 keywords: R Markdown, academic CV, template
