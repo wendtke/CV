@@ -70,7 +70,7 @@ Administrative and research support for SAMHSA-funded projects focused on state-
 
 Director & Principal Investigator: Carol A. Seger, Ph.D. 
 
-Data collection (within undergraduate psychology research pool) and subsequent data processing for disseration research concerning learning and memory
+Data collection (within undergraduate psychology research pool) and subsequent data processing for dissertation research concerning learning and memory
 
 # Translational Research Experience
 
@@ -98,7 +98,7 @@ Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent
 
 ## In Preparation
 
-Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T., Prince, M. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparsion of big data modeling approaches. Manuscript in preparation.
+Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T., Prince, M. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparison of big data modeling approaches. Manuscript in preparation.
 
 Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic mode during challenging parent-child interactions. Manuscript in preparation.
 
@@ -119,7 +119,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
-**Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child coregulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
+**Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child co-regulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
 
 # Software Development
@@ -186,7 +186,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **Society for Prevention Research** (SPR) \hfill 2018 - Present
 
 - Abstract Student-Reviewer
-- Symposuium Moderator
+- Symposium Moderator
  
 **SPR Early Career Preventionist Network** (ECPN) \hfill 2018 - Present
 
@@ -247,6 +247,7 @@ Director: Martín Carcasson, Ph.D.
 # Professional Development Activities
 
 - R/Pharma conference \hfill August 21-23, 2019
+- R/Pharma preconference workshop on `plotly` with Dr. Carson Sievert \hfill August 21, 2019
 - Uncoast Unconf with R \hfill April 14-16, 2019
 - NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
 - Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
