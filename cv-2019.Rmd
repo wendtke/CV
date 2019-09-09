@@ -109,6 +109,8 @@ Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects 
 
 # Presentations
 
+**Wendt, K.E.**, Zhang, S., Feldman, M.J., Anderson, G.B., & Coatsworth, J.D. (2019, November). `psyphr.read`: R package to wrangle and tidy psychophysiological data from proprietary systems. Abstract under review for the Graduate Student Showcase, Colorado State University, Fort Collins, CO.
+
 Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. (2019, May). Informing precision prevention using latent class analysis. Presentation in the Sloboda & Bukoski Cup at the Society for Prevention Research Annual Meeting, San Francisco, CA.
 
 **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. (2019, May). Effects of mindfulness induction on parents' parasympathetic activity in parent-child interactions. Poster presented at Society for Prevention Research Annual Meeting, San Francisco, CA.
@@ -122,8 +124,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 # Software Development
 
-**Wendt, K.E.** & Zhang, S. `psyphr`: An open source R package to wrangle psychophysiological data from proprietary systems. In active development.
-
+**Wendt, K.E.**, Zhang, S, Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, visualize, and analyze psychophysiological data. In active development.
 
 # Honors & Awards
 
