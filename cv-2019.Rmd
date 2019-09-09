@@ -131,7 +131,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 ## Graduate
 
 - RStudio Travel Award for R/Pharma \hfill 2019
-- R/Pharma Travel Award \hfill 2019
+- R/Pharma Travel Award (B2S Life Sciences) \hfill 2019
 - Pearl E. Betts Graduate Scholarship \hfill 2019
 - HDFS Department Travel Grant (Society for Prevention Research) \hfill 2019
 - SPR Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
