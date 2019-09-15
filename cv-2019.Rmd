@@ -33,6 +33,8 @@ National Science Foundation Graduate Research Fellow \hfill 2018 - 2023
 
 *Colorado State University*, M.S. in Prevention Science \hfill Expected 2020
 
+*Colorado State University*, Graduate Certificate in Data Analysis \hfill Expected 2020
+
 *Colorado State University*, B.S. in Human Development and Family Studies \hfill 2018
 
 \hfill University Honors Scholar & *Summa Cum Laude*
@@ -124,7 +126,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 # Software Development
 
-**Wendt, K.E.**, Zhang, S, Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, visualize, and analyze psychophysiological data. In active development.
+**Wendt, K.E.**, Zhang, S., Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, visualize, and analyze psychophysiological data. In active development.
 
 # Honors & Awards
 
