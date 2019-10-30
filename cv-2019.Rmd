@@ -191,7 +191,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 **European Society for Prevention Research** (EUSPR) \hfill 2018 - Present
 
-- Abstract Student-Reviewer
+- Abstract Reviewer
 
 **rOpenSci** \hfill 2019 - Present
 
