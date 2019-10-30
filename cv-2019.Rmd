@@ -90,7 +90,7 @@ Principal Investigator: David MacPhee, Ph.D.
 
 Program Director: Kyle Christensen
 
-Evaluate efficacy and effectiveness of Youth Leadership Summit (October 17-21 2019) serving diverse Colorado youth.
+Evaluate efficacy and effectiveness of Youth Leadership Summit (October 17-21, 2019) for diverse Colorado youth
 
 # Peer-Reviewed Publications
 
@@ -100,18 +100,17 @@ Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent
 
 ## In Preparation
 
-Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T., Prince, M. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparison of big data modeling approaches. Manuscript in preparation.
+Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic patterns during challenging parent-child interactions. Manuscript in preparation.
 
-Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic mode during challenging parent-child interactions. Manuscript in preparation.
-
-**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual moderators of brief mindfulness induction on parents' autonomic mode. Manuscript in preparation.
+**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual differences as moderators of brief mindfulness induction on parents' autonomic patterns. Manuscript in preparation.
 
 Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' mood regulation during challenging parent-child interactions.
 
+Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparison of big data modeling approaches. Manuscript in preparation.
 
 # Presentations
 
-**Wendt, K.E.**, Zhang, S., Feldman, M.J., Anderson, G.B., & Coatsworth, J.D. (2019, November). `psyphr.read`: R package to wrangle and tidy psychophysiological data from proprietary systems. Abstract under review for the Graduate Student Showcase, Colorado State University, Fort Collins, CO.
+**Wendt, K.E.**, Zhang, S., Feldman, M.J., Anderson, G.B., & Coatsworth, J.D. (2019, November). `psyphr.read`: R package to wrangle and tidy psychophysiological data from proprietary systems. Poster accepted for presentation at the Graduate Student Showcase, Colorado State University, Fort Collins, CO.
 
 Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. (2019, May). Informing precision prevention using latent class analysis. Presentation in the Sloboda & Bukoski Cup at the Society for Prevention Research Annual Meeting, San Francisco, CA.
 
@@ -122,7 +121,6 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
 **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child co-regulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
-
 
 # Software Development
 
@@ -135,7 +133,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - RStudio Travel Award for R/Pharma \hfill 2019
 - R/Pharma Travel Award (B2S Life Sciences) \hfill 2019
 - Pearl E. Betts Graduate Scholarship \hfill 2019
-- HDFS Department Travel Grant (Society for Prevention Research) \hfill 2019
+- Departmental Travel Grant (Society for Prevention Research) \hfill 2019
 - SPR Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
 - Uncoast Unconf Travel Grant \hfill 2019
 - CSU Graduate School Travel Grant (Uncoast Unconf) \hfill 2019
@@ -153,14 +151,12 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - Honors Scholarship \hfill 2014 - 2018
 - Green & Gold Scholarship \hfill 2014 - 2018
 
-
 # Professional Membership
 
 - Society for Prevention Research (SPR) \hfill 2018 - Present
 - SPR Early Career Preventionist Network (ECPN) \hfill 2018 - Present
 - European Society for Prevention Research (EUSPR) \hfill 2018 - Present
 - EUSPR Early Career Forum (ECF) \hfill 2018 - Present
-
 
 # Teaching & Mentoring Experience
 
@@ -180,7 +176,6 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 - Teaching Volunteer
 
-
 # Service
 
 ## Professional
@@ -199,7 +194,6 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **European Society for Prevention Research** (EUSPR) \hfill 2018 - Present
 
 - Abstract Student-Reviewer
-
 
 ## University & Department
 
@@ -221,7 +215,6 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 - Speaker Series Coordinator 
 
-
 ## Community 
 
 **Center for Public Deliberation** \hfill 2016 - Present
@@ -238,13 +231,11 @@ Director: Martín Carcasson, Ph.D.
 
 - Volunteer 
 
-
 # Computer Skills
 
 - R language and extras (e.g., RStudio, R Markdown, Shiny)
 - Git and GitHub
 - SPSS (although I actively avoid using it)
-
 
 # Professional Development Activities
 
