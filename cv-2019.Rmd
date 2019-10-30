@@ -35,10 +35,7 @@ National Science Foundation Graduate Research Fellow \hfill 2018 - 2023
 
 *Colorado State University*, Graduate Certificate in Data Analysis \hfill Expected 2020
 
-*Colorado State University*, B.S. in Human Development and Family Studies \hfill 2018
-
-\hfill University Honors Scholar & *Summa Cum Laude*
-
+*Colorado State University*, B.S. in Human Development and Family Studies (*summa cum laude*) \hfill 2018
 
 # Research Experience
 
@@ -92,6 +89,10 @@ Program Director: Kyle Christensen
 
 Evaluate efficacy and effectiveness of Youth Leadership Summit (October 17-21, 2019) for diverse Colorado youth
 
+# Software Development
+
+**Wendt, K.E.**, Zhang, S., Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, visualize, and analyze psychophysiological data. In active development.
+
 # Peer-Reviewed Publications
 
 ## Under Review
@@ -104,7 +105,7 @@ Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effect
 
 **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual differences as moderators of brief mindfulness induction on parents' autonomic patterns. Manuscript in preparation.
 
-Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' mood regulation during challenging parent-child interactions.
+Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' mood regulation during challenging parent-child interactions. Manuscript in preparation.
 
 Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparison of big data modeling approaches. Manuscript in preparation.
 
@@ -121,10 +122,6 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
 
 **Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child co-regulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
-
-# Software Development
-
-**Wendt, K.E.**, Zhang, S., Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, visualize, and analyze psychophysiological data. In active development.
 
 # Honors & Awards
 
@@ -143,6 +140,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 ## Undergraduate
 
+- University Honors Scholar \hfill 2018
 - College of Health & Human Sciences Outstanding Graduate \hfill 2018
 - Albert C. and Ann E. Yates Pacesetter Scholarship \hfill 2017
 - Anne Blair Scholarship \hfill 2017
