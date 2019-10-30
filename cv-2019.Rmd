@@ -193,6 +193,10 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 - Abstract Student-Reviewer
 
+**rOpenSci** \hfill 2019 - Present
+
+- R package reviewer
+
 ## University & Department
 
 **Graduate Student Council** (GSC), Colorado State University \hfill 2018 - Present
