@@ -107,7 +107,7 @@ Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effect
 
 Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' mood regulation during challenging parent-child interactions. Manuscript in preparation.
 
-Prendergast, S., Miller, R., **Wendt, K.E.**, Gerst, K., Klinedinst, T. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparison of big data modeling approaches. Manuscript in preparation.
+Prendergast, S., Klinedinst, T., Miller, R., **Wendt, K.E.**, Gerst, K. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparison of big data modeling approaches. Manuscript in preparation.
 
 # Presentations
 
@@ -127,6 +127,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 ## Graduate
 
+- RStudio Diversity Scholarship for rstudio::conf(2020) \hfill 2019
 - RStudio Travel Award for R/Pharma \hfill 2019
 - R/Pharma Travel Award (B2S Life Sciences) \hfill 2019
 - Pearl E. Betts Graduate Scholarship \hfill 2019
@@ -216,6 +217,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **Department of Human Development and Family Studies** (HDFS) \hfill 2019 - Present
 
 - Speaker Series Coordinator 
+- Panelist - HDFS Graduate Programs Informational Sessions 
 
 ## Community 
 
