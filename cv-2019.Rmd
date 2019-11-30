@@ -29,13 +29,15 @@ urlcolor: blue
 
 National Science Foundation Graduate Research Fellow \hfill 2018 - 2023
 
-*Colorado State University*, Ph.D. in Applied Developmental Science \hfill Expected 2023
+Colorado State University \hfill 2014 - 2023 
 
-*Colorado State University*, M.S. in Prevention Science \hfill Expected 2020
+- Ph.D. in Applied Developmental Science \hfill Expected 2023
 
-*Colorado State University*, Graduate Certificate in Data Analysis \hfill Expected 2020
+- M.S. in Prevention Science \hfill Expected 2020
 
-*Colorado State University*, B.S. in Human Development and Family Studies (*summa cum laude*) \hfill 2018
+- Graduate Certificate in Data Analysis \hfill Expected 2020
+
+- B.S. in Human Development and Family Studies (*summa cum laude*) \hfill 2018
 
 # Research Experience
 
@@ -101,17 +103,13 @@ Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent
 
 ## In Preparation
 
-Coatsworth, J.D., **Wendt, K.E.**, Lunkenheimer, E.S., & Cleavinger, E.J. Effects of brief mindfulness induction on parents' autonomic patterns during challenging parent-child interactions. Manuscript in preparation.
+Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Manuscript in preparation.
 
-**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Cleavinger, E.J. Individual differences as moderators of brief mindfulness induction on parents' autonomic patterns. Manuscript in preparation.
-
-Biedermann, A., Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' mood regulation during challenging parent-child interactions. Manuscript in preparation.
-
-Prendergast, S., Klinedinst, T., Miller, R., **Wendt, K.E.**, Gerst, K. Multimorbidity and limitations in daily living in Medicare beneficiaries: A comparison of big data modeling approaches. Manuscript in preparation.
+**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Lucas-Thompson, R.G. Individual differences as moderators of brief mindfulness induction on parents' autonomic activity. Manuscript in preparation.
 
 # Presentations
 
-**Wendt, K.E.**, Zhang, S., Feldman, M.J., Anderson, G.B., & Coatsworth, J.D. (2019, November). `psyphr.read`: R package to wrangle and tidy psychophysiological data from proprietary systems. Poster accepted for presentation at the Graduate Student Showcase, Colorado State University, Fort Collins, CO.
+**Wendt, K.E.**, Zhang, S., Feldman, M.J., Anderson, G.B., & Coatsworth, J.D. (2019, November). `psyphr.read`: R package to wrangle and tidy psychophysiological data from proprietary systems. Poster presentation at the Graduate Student Showcase, Colorado State University, Fort Collins, CO.
 
 Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. (2019, May). Informing precision prevention using latent class analysis. Presentation in the Sloboda & Bukoski Cup at the Society for Prevention Research Annual Meeting, San Francisco, CA.
 
@@ -131,11 +129,11 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - RStudio Travel Award for R/Pharma \hfill 2019
 - R/Pharma Travel Award (B2S Life Sciences) \hfill 2019
 - Pearl E. Betts Graduate Scholarship \hfill 2019
-- Departmental Travel Grant (Society for Prevention Research) \hfill 2019
+- Departmental Travel Grant for Society for Prevention Research \hfill 2019
 - SPR Early Career Preventionist Network (ECPN) Travel Award \hfill 2019
 - Uncoast Unconf Travel Grant \hfill 2019
-- CSU Graduate School Travel Grant (Uncoast Unconf) \hfill 2019
-- Departmental Travel Grant (Uncoast Unconf) \hfill 2019
+- CSU Graduate School Travel Grant for Uncoast Unconf \hfill 2019
+- Departmental Travel Grant for Uncoast Unconf \hfill 2019
 - Colorado State University Graduate Fellowship \hfill 2018
 - National Science Foundation Graduate Research Fellowship \hfill 2018 - 2023
 
@@ -187,8 +185,8 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **SPR Early Career Preventionist Network** (ECPN) \hfill 2018 - Present
 
 - Steering Committee Member (2018 - Present)
+- Program Subcommittee Member (2019 - Present)
 - Awards Subcommittee Member (2018 - 2019)
-- Program Subcommittee Member (2019 - 2020)
 
 **European Society for Prevention Research** (EUSPR) \hfill 2018 - Present
 
@@ -196,7 +194,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 **rOpenSci** \hfill 2019 - Present
 
-- R package reviewer
+- R Package Reviewer
 
 ## University & Department
 
@@ -219,22 +217,6 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - Speaker Series Coordinator 
 - Panelist - HDFS Graduate Programs Informational Sessions 
 
-## Community 
-
-**Center for Public Deliberation** \hfill 2016 - Present
-
-- Community Associate
-
-Director: Martín Carcasson, Ph.D.
-
-**Kids at Heart**, Fort Collins & Loveland, CO \hfill  2014 - 2017
-
-- Group Leader  
-
-**Pathways Hospice and Palliative Care**, Fort Collins, CO \hfill  2016
-
-- Volunteer 
-
 # Computer Skills
 
 - R language and extras (e.g., RStudio, R Markdown, Shiny)
@@ -243,10 +225,15 @@ Director: Martín Carcasson, Ph.D.
 
 # Professional Development Activities
 
-- R/Pharma conference \hfill August 21-23, 2019
-- R/Pharma preconference workshop on `plotly` with Dr. Carson Sievert \hfill August 21, 2019
+- RStudio tidyverse developer day - Dr. Hadley Wickham \hfill January 31, 2020
+- RStudio conference \hfill January 29-30, 2020
+- RStudio tidy tools workshop - Drs. Hadley and Charlotte Wickham \hfill January 27-28, 2020
+- R/Pharma conference \hfill August 22-23, 2019
+- R/Pharma preconference workshop on `plotly` - Dr. Carson Sievert \hfill August 21, 2019
+- Society for Prevention Research Annual Meeting \hfill May 29-31, 2019
 - Uncoast Unconf with R \hfill April 14-16, 2019
-- NIH Grant-Writing Workshop, Dr. Maria Esformes \hfill August 3, 2018
-- Heart Rate Variability Seminar, Dr. Gary Berntson \hfill June 9-10, 2018
-- Bayesian Causal Mediation Analysis Workshop, Dr. David MacKinnon et al. \hfill May 29, 2018
+- NIH Grant-Writing Workshop - Dr. Maria Esformes \hfill August 3, 2018
+- Heart Rate Variability Seminar - Dr. Gary Berntson \hfill June 9-10, 2018
+- Society for Prevention Research Annual Meeting \hfill May 30-June 1, 2018
+- Bayesian Causal Mediation Analysis Workshop - Dr. David MacKinnon et al. \hfill May 29, 2018
 - Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
