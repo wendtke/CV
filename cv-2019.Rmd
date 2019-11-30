@@ -31,7 +31,7 @@ National Science Foundation Graduate Research Fellow \hfill 2018 - 2023
 
 Colorado State University \hfill 2014 - 2023 
 
-- Ph.D. in Applied Developmental Science \hfill Expected 2023
+- Ph.D. in Applied Developmental Science \hfill May 2023
 
 - M.S. in Prevention Science \hfill Expected 2020
 
@@ -45,19 +45,17 @@ Colorado State University \hfill 2014 - 2023
 
 Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
-Project administration; data collection using complex physiological and observational equipment; data analysis via dynamic systems-based methods and modeling; technical and scientific writing; R programming; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
+Project administration, planning, and management; data collection with physiological and observational systems; R programming; data analysis; technical and scientific writing; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
 
-## Current Studies
+- *Project Mind-Heart* (PMH): Investigate effects of brief mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions
 
-1. *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP)
+- *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators of mindfulness and interaction quality in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP)
 
-2. *Project Mind-Heart* (PMH): Investigate effects of brief mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions
-
-**Parenting Young Children Project** (NICHD), Project Manager \hfill 2015 - 2018
+**Parenting Young Children Project** (NICHD K01), Project Manager \hfill 2015 - 2018
 
 Principal Investigator: Erika S. Lunkenheimer, Ph.D.
 
-Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection and analysis using dynamic systems-based methods and modeling for NIH-funded longitudinal study investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, behaviors, and physiology and associated risk of child maltreatment and psychopathology
+Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection with physiological and observational systems for NIH-funded longitudinal study investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, behaviors, and physiology and associated risk of child maltreatment and psychopathology
 
 **Child Trauma and Resilience Assessment Center**, Intern \hfill Fall 2017
 
@@ -67,21 +65,7 @@ Director: Stephanie Seng, M.S.
 
 Administrative and research support for SAMHSA-funded projects focused on state-wide trauma-informed training, development of adult trauma assessment, and trauma assessment provision for high-risk adolescents
 
-**Cognitive Neuroimaging Laboratory**, Honors Undergraduate Research Scholar \hfill 2014 - 2015
-
-Director & Principal Investigator: Carol A. Seger, Ph.D. 
-
-Data collection (within undergraduate psychology research pool) and subsequent data processing for dissertation research concerning learning and memory
-
 # Translational Research Experience
-
-**SOS Outreach**, Research Consultant \hfill 2019 - Present
-
-Principal Investigator: J. Douglas Coatsworth, Ph.D. 
-
-Executive Director: Seth Erhlich 
-
-Qualitative and quantitative data management and analysis; study design and planning; grant-writing to help bolster research-base for outdoor-based  mentorship and leadership program for at-risk and marginalized youth
 
 **Douglas County CSU Extension Office**, Program Evaluator \hfill 2019 - Present
 
@@ -91,9 +75,17 @@ Program Director: Kyle Christensen
 
 Evaluate efficacy and effectiveness of Youth Leadership Summit (October 17-21, 2019) for diverse Colorado youth
 
+**SOS Outreach**, Research Consultant \hfill 2019 - Present
+
+Principal Investigator: J. Douglas Coatsworth, Ph.D. 
+
+Executive Director: Seth Erhlich 
+
+Qualitative and quantitative data management and analysis; study design and planning; R programming consultation; grant-writing to help bolster research-base for outdoor-based  mentorship and leadership program for at-risk and marginalized youth
+
 # Software Development
 
-**Wendt, K.E.**, Zhang, S., Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, visualize, and analyze psychophysiological data. In active development.
+**Wendt, K.E.**, Zhang, S., Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, filter, visualize, analyze, and share psychophysiological data. In active development.
 
 # Peer-Reviewed Publications
 
@@ -117,10 +109,6 @@ Prendergast, S., Miller, R., **Wendt, K.E.**, Klinedinst, T., & Gerst, K. (2019,
 
 Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2018, May). Promoting innovation in prevention science. Special Interest Group at Society for Prevention Research Annual Meeting, Washington, D.C.
 
-**Wendt, K.E.** & Coatsworth, J.D. (2018, April). Exploring moderators of mindfulness training on parental physiological regulation and mood. Paper presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
-
-**Wendt, K.E.**, Skoranski, A.M., & Lunkenheimer, E.S. (2017, April). Maternal depression moderates the relationship between mother-child co-regulation and child emotion regulation. Poster presented at Celebrate Undergraduate Research and Creativity Showcase, Colorado State University, Fort Collins, CO.
-
 # Honors & Awards
 
 ## Graduate
@@ -143,7 +131,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - College of Health & Human Sciences Outstanding Graduate \hfill 2018
 - Albert C. and Ann E. Yates Pacesetter Scholarship \hfill 2017
 - Anne Blair Scholarship \hfill 2017
-- College of Health and Human Sciences Students First Scholarship \hfill 2016
+- College of Health & Human Sciences Students First Scholarship \hfill 2016
 - Spots Scholarship \hfill 2015
 - Honors Scholarship \hfill 2014 - 2018
 - Green & Gold Scholarship \hfill 2014 - 2018
@@ -155,27 +143,13 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - European Society for Prevention Research (EUSPR) \hfill 2018 - Present
 - EUSPR Early Career Forum (ECF) \hfill 2018 - Present
 
-# Teaching & Mentoring Experience
-
-**Colorado State University** \hfill 2018 - Present
-
-- Graduate School and Fellowship Application Mentor
-
-**HDFS Department**, Colorado State University \hfill  Fall 2016
-
-- Undergraduate Teaching Assistant for Infant & Child Development 
-
-**Office of International Programs**, Colorado State University \hfill  2016
-
-- Exchange Student Mentor
-
-**African Impact & Colorado State University**, Livingstone, Zambia \hfill  Summer 2015
-
-- Teaching Volunteer
-
 # Service
 
 ## Professional
+
+**rOpenSci** \hfill 2019 - Present
+
+- R Package Reviewer
 
 **Society for Prevention Research** (SPR) \hfill 2018 - Present
 
@@ -192,20 +166,16 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 - Abstract Reviewer
 
-**rOpenSci** \hfill 2019 - Present
-
-- R Package Reviewer
-
 ## University & Department
+
+***Journal of Undergraduate Research***, Colorado State University  \hfill 2018 - Present
+
+- Graduate Referee
 
 **Graduate Student Council** (GSC), Colorado State University \hfill 2018 - Present
 
 - Department Representative 
 - Travel Award Reviewer
-
-***Journal of Undergraduate Research***, Colorado State University  \hfill 2018 - Present
-
-- Graduate Referee
 
 **The Graduate School**, Colorado State University
 
@@ -217,23 +187,25 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - Speaker Series Coordinator 
 - Panelist - HDFS Graduate Programs Informational Sessions 
 
+# Teaching & Mentoring Experience
+
+**HDFS Department**, Colorado State University \hfill  Fall 2016
+
+- Undergraduate Teaching Assistant for Infant & Child Development 
+
 # Computer Skills
 
-- R language and extras (e.g., RStudio, R Markdown, Shiny)
+- R language and extras (e.g., RStudio, RMarkdown, Shiny)
 - Git and GitHub
 - SPSS (although I actively avoid using it)
 
 # Professional Development Activities
 
-- RStudio tidyverse developer day - Dr. Hadley Wickham \hfill January 31, 2020
+- RStudio `tidyverse` developer day - Dr. Hadley Wickham \hfill January 31, 2020
 - RStudio conference \hfill January 29-30, 2020
-- RStudio tidy tools workshop - Drs. Hadley and Charlotte Wickham \hfill January 27-28, 2020
+- RStudio `tidy tools` workshop - Drs. Hadley & Charlotte Wickham \hfill January 27-28, 2020
 - R/Pharma conference \hfill August 22-23, 2019
-- R/Pharma preconference workshop on `plotly` - Dr. Carson Sievert \hfill August 21, 2019
-- Society for Prevention Research Annual Meeting \hfill May 29-31, 2019
+- R/Pharma workshop on `plotly` - Dr. Carson Sievert \hfill August 21, 2019
 - Uncoast Unconf with R \hfill April 14-16, 2019
-- NIH Grant-Writing Workshop - Dr. Maria Esformes \hfill August 3, 2018
+- Grant-Writing Workshop for NIH - Dr. Maria Esformes \hfill August 3, 2018
 - Heart Rate Variability Seminar - Dr. Gary Berntson \hfill June 9-10, 2018
-- Society for Prevention Research Annual Meeting \hfill May 30-June 1, 2018
-- Bayesian Causal Mediation Analysis Workshop - Dr. David MacKinnon et al. \hfill May 29, 2018
-- Mental Health-Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
