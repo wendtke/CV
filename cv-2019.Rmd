@@ -83,10 +83,6 @@ Executive Director: Seth Erhlich
 
 Qualitative and quantitative data management and analysis; study design and planning; R programming consultation; grant-writing to help bolster research-base for outdoor-based  mentorship and leadership program for at-risk and marginalized youth
 
-# Software Development
-
-**Wendt, K.E.**, Zhang, S., Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, filter, visualize, analyze, and share psychophysiological data. In active development.
-
 # Peer-Reviewed Publications
 
 ## Under Review
@@ -98,6 +94,14 @@ Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent
 Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Manuscript in preparation.
 
 **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Lucas-Thompson, R.G. Individual differences as moderators of brief mindfulness induction on parents' autonomic activity. Manuscript in preparation.
+
+# Software Development
+
+**Wendt, K.E.**, Zhang, S., Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, filter, visualize, analyze, and share psychophysiological data. In active development.
+
+# Workshops
+
+Grant, S.P., **Wendt, K.E.**, & Anderson, G.B. (2020, May).  Open science for prevention scientists: Efficient, transparent, and reproducible research workflows. Preconference workshop proposal under review for the Society for Prevention Research Annual Meeting, Washington, D.C.
 
 # Presentations
 
