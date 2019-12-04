@@ -117,7 +117,8 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 ## Graduate
 
-- RStudio Diversity Scholarship for rstudio::conf(2020) \hfill 2019
+- RStudio Diversity Scholarship for `rstudio::conf(2020L)` \hfill 2020
+- Departmental Travel Grant for `rstudio::conf(2020L)` \hfill 2020
 - RStudio Travel Award for R/Pharma \hfill 2019
 - R/Pharma Travel Award (B2S Life Sciences) \hfill 2019
 - Pearl E. Betts Graduate Scholarship \hfill 2019
@@ -206,10 +207,10 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 # Professional Development Activities
 
 - RStudio `tidyverse` developer day - Dr. Hadley Wickham \hfill January 31, 2020
-- RStudio conference \hfill January 29-30, 2020
+- `rstudio::conf(2020L)` \hfill January 29-30, 2020
 - RStudio `tidy tools` workshop - Drs. Hadley & Charlotte Wickham \hfill January 27-28, 2020
 - R/Pharma conference \hfill August 22-23, 2019
-- R/Pharma workshop on `plotly` - Dr. Carson Sievert \hfill August 21, 2019
+- R/Pharma `plotly` workshop - Dr. Carson Sievert \hfill August 21, 2019
 - Uncoast Unconf with R \hfill April 14-16, 2019
 - Grant-Writing Workshop for NIH - Dr. Maria Esformes \hfill August 3, 2018
 - Heart Rate Variability Seminar - Dr. Gary Berntson \hfill June 9-10, 2018
