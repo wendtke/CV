@@ -85,10 +85,6 @@ Qualitative and quantitative data management and analysis; study design and plan
 
 # Peer-Reviewed Publications
 
-## Under Review
-
-Skoranski, A.M., Lunkenheimer, E.S., & **Wendt, K.E.**. Flexible or inconsistent? The impact of parent-child dyadic flexibility on child emotion regulation varies by maternal depressive symptoms. Manuscript under review.
-
 ## In Preparation
 
 Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Manuscript in preparation.
@@ -97,7 +93,7 @@ Coatsworth, J.D., **Wendt, K.E.**, & Lunkenheimer, E.S. Effects of brief mindful
 
 # Software Development
 
-**Wendt, K.E.**, Zhang, S., Feldman, M.F., Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, filter, visualize, analyze, and share psychophysiological data. In active development.
+**Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, filter, visualize, analyze, and share psychophysiological data. In active development.
 
 # Workshops
 
@@ -200,7 +196,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 # Computer Skills
 
-- R language and extras (e.g., RStudio, RMarkdown, Shiny)
+- R language and extras (e.g., RStudio, R Markdown, Shiny)
 - Git and GitHub
 - SPSS (although I actively avoid using it)
 
