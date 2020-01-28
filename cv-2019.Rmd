@@ -95,10 +95,6 @@ Qualitative and quantitative data management and analysis; study design and plan
 
 **Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, filter, visualize, analyze, and share physiological data. In active development.
 
-# Workshops
-
-Grant, S.P., **Wendt, K.E.**, & Anderson, G.B. (2020, May).  Open science for prevention scientists: Efficient, transparent, and reproducible research workflows. Preconference workshop proposal under review for the Society for Prevention Research Annual Meeting, Washington, D.C.
-
 # Presentations
 
 **Wendt, K.E.**, Zhang, S., Feldman, M.J., Anderson, G.B., & Coatsworth, J.D. (2019, November). `psyphr.read`: R package to wrangle and tidy psychophysiological data from proprietary systems. Poster presentation at the Graduate Student Showcase, Colorado State University, Fort Collins, CO.
