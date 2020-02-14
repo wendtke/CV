@@ -27,7 +27,7 @@ urlcolor: blue
 
 # Education
 
-National Science Foundation Graduate Research Fellow \hfill 2018 - 2023
+[National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/) \hfill 2018 - 2023
 
 Colorado State University \hfill 2014 - 2023 
 
@@ -41,7 +41,7 @@ Colorado State University \hfill 2014 - 2023
 
 # Research Experience
 
-**Mindfulness and Family Resilience Laboratory** (MFR), Lab Manager \hfill  2016 - Present
+**[Mindfulness and Family Resilience Laboratory](https://www.chhs.colostate.edu/hdfs/research/research-labs/mindfulness-and-family-resilience-lab/)** (MFR), Lab Manager \hfill  2016 - Present
 
 Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
@@ -83,17 +83,22 @@ Executive Director: Seth Erhlich
 
 Qualitative and quantitative data management and analysis; study design and planning; R programming consultation; grant-writing to help bolster research-base for outdoor-based  mentorship and leadership program for at-risk and marginalized youth
 
+# Software Development
+
+**Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). [`psyphr`](https://github.com/psyphr-dev): R package suite to wrangle, filter, visualize, analyze, and share physiological data. In active development.
+
 # Peer-Reviewed Publications
+
+## Under Review
+
+Lunkenheimer, E.S., Skoranski, A.M., & **Wendt, K.E.** Flexible or inconsistent? Parental depressive symptoms and parent-child behavioral
+inconsistency heighten child dysregulation. Manuscript under review.
 
 ## In Preparation
 
 **Wendt, K.E.**, Coatsworth, J.D., & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Manuscript in preparation.
 
 **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Lucas-Thompson, R.G. Individual differences as moderators of brief mindfulness induction on parents' autonomic activity. Manuscript in preparation.
-
-# Software Development
-
-**Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). `psyphr`: R package suite to wrangle, filter, visualize, analyze, and share physiological data. In active development.
 
 # Presentations
 
@@ -132,6 +137,23 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - Spots Scholarship \hfill 2015
 - Honors Scholarship \hfill 2014 - 2018
 - Green & Gold Scholarship \hfill 2014 - 2018
+
+# Computer Skills
+
+- R and its extensions (e.g., RStudio, R Markdown, Shiny)
+- Git/GitHub
+- SPSS (although I actively avoid using it)
+
+# Professional Development Activities
+
+- RStudio `tidyverse` developer day - Dr. Hadley Wickham \hfill January 31, 2020
+- RStudio Conference \hfill January 29-30, 2020
+- RStudio `tidy tools` workshop - Drs. Hadley & Charlotte Wickham \hfill January 27-28, 2020
+- R/Pharma conference \hfill August 22-23, 2019
+- R/Pharma `plotly` workshop - Dr. Carson Sievert \hfill August 21, 2019
+- Uncoast Unconf with R \hfill April 14-16, 2019
+- Grant-Writing Workshop for NIH - Dr. Maria Esformes \hfill August 3, 2018
+- Heart Rate Variability Seminar - Dr. Gary Berntson \hfill June 9-10, 2018
 
 # Professional Membership
 
@@ -189,20 +211,3 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **HDFS Department**, Colorado State University \hfill  Fall 2016
 
 - Undergraduate Teaching Assistant for Infant & Child Development 
-
-# Computer Skills
-
-- R and its extensions (e.g., RStudio, R Markdown, Shiny)
-- Git/GitHub
-- SPSS (although I actively avoid using it)
-
-# Professional Development Activities
-
-- RStudio `tidyverse` developer day - Dr. Hadley Wickham \hfill January 31, 2020
-- RStudio Conference \hfill January 29-30, 2020
-- RStudio `tidy tools` workshop - Drs. Hadley & Charlotte Wickham \hfill January 27-28, 2020
-- R/Pharma conference \hfill August 22-23, 2019
-- R/Pharma `plotly` workshop - Dr. Carson Sievert \hfill August 21, 2019
-- Uncoast Unconf with R \hfill April 14-16, 2019
-- Grant-Writing Workshop for NIH - Dr. Maria Esformes \hfill August 3, 2018
-- Heart Rate Variability Seminar - Dr. Gary Berntson \hfill June 9-10, 2018
