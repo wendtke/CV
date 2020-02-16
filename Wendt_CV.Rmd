@@ -27,7 +27,7 @@ urlcolor: blue
 
 # Education
 
-[National Science Foundation Graduate Research Fellow](https://www.nsfgrfp.org/) \hfill 2018 - 2023
+[National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) \hfill 2018 - 2023
 
 Colorado State University \hfill 2014 - 2023 
 
@@ -114,6 +114,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 ## Graduate
 
+- useR! Diversity Scholarship for useR! Conference \hfill 2020
 - RStudio Diversity Scholarship for RStudio Conference \hfill 2020
 - Departmental Travel Grant for RStudio Conference \hfill 2020
 - RStudio Travel Award for R/Pharma \hfill 2019
