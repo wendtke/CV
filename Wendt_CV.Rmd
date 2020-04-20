@@ -67,7 +67,7 @@ Administrative and research support for SAMHSA-funded projects focused on state-
 
 # Translational Research Experience
 
-**Douglas County CSU Extension Office**, Program Evaluator \hfill 2019 - Present
+**Douglas County CSU Extension Office**, Program Evaluator \hfill 2019 - 2020
 
 Principal Investigator: David MacPhee, Ph.D. 
 
@@ -75,7 +75,7 @@ Program Director: Kyle Christensen
 
 Evaluate efficacy and effectiveness of Youth Leadership Summit (October 18-20, 2019) for diverse Colorado youth
 
-**SOS Outreach**, Research Consultant \hfill 2019 - Present
+**SOS Outreach**, Research Consultant \hfill 2019 
 
 Principal Investigator: J. Douglas Coatsworth, Ph.D. 
 
@@ -85,7 +85,7 @@ Qualitative and quantitative data management and analysis; study design and plan
 
 # Software Development
 
-**Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). [`psyphr`](https://github.com/psyphr-dev): R package suite to wrangle, filter, visualize, analyze, and share physiological data. In active development.
+**Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). [`psyphr`](https://github.com/psyphr-dev): R package suite to wrangle, filter, visualize, analyze, and share physiological data. In active development at github.com/psyphr-dev
 
 # Peer-Reviewed Publications
 
@@ -99,6 +99,12 @@ inconsistency heighten child dysregulation. Manuscript under review.
 **Wendt, K.E.**, Coatsworth, J.D., & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Manuscript in preparation.
 
 **Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Lucas-Thompson, R.G. Individual differences as moderators of brief mindfulness induction on parents' autonomic activity. Manuscript in preparation.
+
+Grant, S.P., **Wendt, K.E.**, Gardner, F., Leadbeater, B.J., Crowley, D.M., Mayo-Wilson, E., Supplee, L.H., & Bradshaw, C.P. Transparent, open, and reproducible prevention science. Anchoring statement for 2020 Special Issue of Prevention Science. Manuscript in preparation.
+
+**Wendt, K.E.**, Timpe, Z.C., Anderson, G.B, Chorpita, B.F., & Coatsworth, J.D. Harnessing the power of computational reproducibility for prevention science. Invited manuscript submission for 2020 Special Issue of Prevention Science. Manuscript in preparation.
+
+Prendergast, S., Klinedinst, T., Miller, R., Gerst, K., & **Wendt, K.E**. A latent class analysis of multi-morbidity and limitations in daily living in Medicare beneficiaries. Manuscript in preparation.
 
 # Presentations
 
