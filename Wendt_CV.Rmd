@@ -8,10 +8,10 @@ geometry: margin=1in
 title: "Curriculum Vitae"
 author: Kathleen Ellen Wendt
 
-jobtitle: "NSF Graduate Research Fellow | CSU Graduate Fellow | Graduate Student"
-address: "Behavioral Sciences Building 438/439 · Colorado State University  · Fort Collins, CO"
+jobtitle: "NSF Graduate Research Fellow | Graduate Student"
+address: "Behavioral Sciences Building · Colorado State University  · Fort Collins, CO"
 fontawesome: yes
-email: Kathleen.Wendt@colostate.edu
+email: Kathleen.Wendt18@alumni.colostate.edu
 github: wendtke
 twitter: wendtke
 updated: yes
@@ -27,17 +27,23 @@ urlcolor: blue
 
 # Education
 
-[National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) \hfill 2018 - 2023
+[National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) \hfill 2018 - Present
 
-Colorado State University \hfill 2014 - 2023 
+- Graduate Research Fellowship in Developmental Psychology \hfill 2018 - Present
 
-- Ph.D. in Applied Developmental Science \hfill Expected 2023
+Colorado State University (CSU) \hfill 2014 - Present
 
-- M.S. in Prevention Science \hfill Expected 2020
+- Ph.D. in Applied Developmental Science \hfill 2018 - Present
 
-- Graduate Certificate in Data Analysis \hfill Expected 2020
+- M.S. in Prevention Science \hfill Expected December 2020
+
+- Statistics Graduate Certificate in Data Analysis \hfill 2020
 
 - B.S. in Human Development and Family Studies (*summa cum laude*) \hfill 2018
+
+  - Minor in International Development Studies \hfill 2018
+
+  - Concentration in Prevention and Intervention Science \hfill 2018
 
 # Research Experience
 
@@ -45,17 +51,25 @@ Colorado State University \hfill 2014 - 2023
 
 Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
-Project administration, planning, and management; data collection with physiological and observational systems; R programming; data analysis; technical and scientific writing; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
+Purpose: Investigate use and benefits of mindfulness in family contexts
+
+Tasks: Project administration, planning, and management; data collection with physiological and observational systems; R programming; data analysis; technical, scientific, and grant writing; recruitment, training, mentorship, and management of 12 undergraduate research assistants
 
 - *Project Mind-Heart* (PMH): Investigate effects of brief mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions
 
-- *Mindful Parent Observational Study* (MPOS): Code and analyze behavioral and affective indicators of mindfulness and interaction quality in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP)
+- *Mindful Parent Observational Study* (MPOS): Analyze behavioral and affective indicators of mindfulness and interaction quality in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP)
+
+Employment Funding: CSU Prevention Research Center
 
 **Parenting Young Children Project** (NICHD K01), Project Manager \hfill 2015 - 2018
 
 Principal Investigator: Erika S. Lunkenheimer, Ph.D.
 
-Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection with physiological and observational systems for NIH-funded longitudinal study investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, behaviors, and physiology and associated risk of child maltreatment and psychopathology
+Purpose: NIH-funded longitudinal study investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, behaviors, and physiology and associated risk of child maltreatment and psychopathology
+
+Tasks: Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection, management, and processing with physiological and observational systems
+
+Grant Funding: Eunice Kennedy Shriver National Institute of Child Health and Development Career Development Award (K01) to PI Lunkenheimer 
 
 **Child Trauma and Resilience Assessment Center**, Intern \hfill Fall 2017
 
@@ -63,7 +77,15 @@ Principal Investigator: Lise Youngblade, Ph.D.
 
 Director: Stephanie Seng, M.S.
 
-Administrative and research support for SAMHSA-funded projects focused on state-wide trauma-informed training, development of adult trauma assessment, and trauma assessment provision for high-risk adolescents
+Administrative and research support for SAMHSA- and DHS-funded projects focused on state-wide trauma-informed training, development of adult trauma assessment, and trauma assessment provision for high-risk adolescents
+
+Grant Funding: Substance Abuse and Mental Health Services Colorado Children's Congregate Care Resiliency Opportunity Project (CROP) to PI Youngblade
+
+**Cognitive Neuroimaging Laboratory**, Honors Undergraduate Research Scholar \hfill 2014 - 2015
+
+Principal Investigator: Carol A. Seger, Ph.D.
+
+Data collection, processing, and management for dissertation research on learning and memory
 
 # Translational Research Experience
 
@@ -73,15 +95,41 @@ Principal Investigator: David MacPhee, Ph.D.
 
 Program Director: Kyle Christensen
 
-Evaluate efficacy and effectiveness of Youth Leadership Summit (October 18-20, 2019) for diverse Colorado youth
+Evaluate program implementation of Youth Leadership Summit (October 18-20, 2019) for diverse Colorado youth
 
-**SOS Outreach**, Research Consultant \hfill 2019 
+**SOS Outreach**, Research Consultant (*pro bono*) \hfill 2019 
 
 Principal Investigator: J. Douglas Coatsworth, Ph.D. 
 
 Executive Director: Seth Erhlich 
 
-Qualitative and quantitative data management and analysis; study design and planning; R programming consultation; grant-writing to help bolster research-base for outdoor-based  mentorship and leadership program for at-risk and marginalized youth
+Qualitative and quantitative data management and analysis, study design and planning, R programming consultation for Shiny dashboard development, and grant-writing to help bolster research-base for outdoor-based mentorship and leadership program for at-risk and marginalized youth
+
+# Teaching Experience
+
+**CSU Department of Mechanical Engineering**, Teaching Assistant \hfill 2020 - Present
+
+Instructor: John Volckens, Ph.D.
+
+Tasks: Develop curriculum for and assist with implementation of open-source, 400-level engineering data analysis course in R
+
+**CSU Department of Statistics**, Curriculum Developer \hfill 2020 - Present
+
+Tasks: Develop curricula for online, open-source introductory programming and statistical computing course in R
+
+Grant Funding: CSU Provost Office Digital Learning Initiative 
+
+**useR! 2020 Conference**, Teaching Assistant (*pro bono*) \hfill July 2020
+
+Instructor: Samantha Tyner, Ph.D.
+
+Tasks: Help develop and execute online tutorial for data visualization 
+
+**Department of Human Development and Family Studies**, Teaching Assistant \hfill  Fall 2016
+
+Instructor: Erika S. Lunkenheimer, Ph.D.
+
+Tasks: Grading and exam review sessions for course on infant and child development
 
 # Software Development
 
@@ -96,15 +144,13 @@ inconsistency heighten child dysregulation. Manuscript under review.
 
 ## In Preparation
 
-**Wendt, K.E.**, Coatsworth, J.D., & Lunkenheimer, E.S. Effects of brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Manuscript in preparation.
+**Wendt, K.E.**, Lucas-Thompson, R.G., Lunkenheimer, E.S., & Coatsworth, J.D. The effects of a brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Manuscript in preparation.
 
-**Wendt, K.E.**, Coatsworth, J.D., Lunkenheimer, E.S., & Lucas-Thompson, R.G. Individual differences as moderators of brief mindfulness induction on parents' autonomic activity. Manuscript in preparation.
+Grant, S.P., **Wendt, K.E.**, Gardner, F., Leadbeater, B.J., Crowley, D.M., Mayo-Wilson, E., Supplee, L.H., & Bradshaw, C.P. Transparent, open, and reproducible prevention science. Anchoring statement for 2020 Special Issue of *Prevention Science*. Manuscript in preparation.
 
-Grant, S.P., **Wendt, K.E.**, Gardner, F., Leadbeater, B.J., Crowley, D.M., Mayo-Wilson, E., Supplee, L.H., & Bradshaw, C.P. Transparent, open, and reproducible prevention science. Anchoring statement for 2020 Special Issue of Prevention Science. Manuscript in preparation.
+**Wendt, K.E.**, Timpe, Z.C., Anderson, G.B, Chorpita, B.F., & Coatsworth, J.D. The promise of open source and open access: Computational reproducibility and knowledge management in prevention science. Invited manuscript submission for 2020 Special Issue of *Prevention Science*. Manuscript in preparation.
 
-**Wendt, K.E.**, Timpe, Z.C., Anderson, G.B, Chorpita, B.F., & Coatsworth, J.D. Harnessing the power of computational reproducibility for prevention science. Invited manuscript submission for 2020 Special Issue of Prevention Science. Manuscript in preparation.
-
-Prendergast, S., Klinedinst, T., Miller, R., Gerst, K., & **Wendt, K.E**. A latent class analysis of multi-morbidity and limitations in daily living in Medicare beneficiaries. Manuscript in preparation.
+Prendergast, S., Klinedinst, T., Miller, R.L., Gerst, K., & **Wendt, K.E.**. Multiple chronic conditions and functional decline among Medicare beneficiaries: A comparison of modeling approaches. Manuscript in preparation.
 
 # Presentations
 
@@ -148,11 +194,15 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 # Computer Skills
 
 - R and its extensions (e.g., RStudio, R Markdown, Shiny)
-- Git/GitHub
+- Version control and collaboration with Git/GitHub
+- Python (currently learning)
 - SPSS (although I actively avoid using it)
+- Microsoft Office Suite
+- Collaborative clouds including Google Drive and OneDrive
 
 # Professional Development Activities
 
+- useR! Conference \hfill July 2020
 - RStudio `tidyverse` developer day - Dr. Hadley Wickham \hfill January 31, 2020
 - RStudio Conference \hfill January 29-30, 2020
 - RStudio `tidy tools` workshop - Drs. Hadley & Charlotte Wickham \hfill January 27-28, 2020
@@ -160,14 +210,14 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - R/Pharma `plotly` workshop - Dr. Carson Sievert \hfill August 21, 2019
 - Uncoast Unconf with R \hfill April 14-16, 2019
 - Grant-Writing Workshop for NIH - Dr. Maria Esformes \hfill August 3, 2018
-- Heart Rate Variability Seminar - Dr. Gary Berntson \hfill June 9-10, 2018
+- Heart Rate Variability Workshop - Dr. Gary Berntson \hfill June 9-10, 2018
 
 # Professional Membership
 
-- Society for Prevention Research (SPR) \hfill 2018 - Present
-- SPR Early Career Preventionist Network (ECPN) \hfill 2018 - Present
-- European Society for Prevention Research (EUSPR) \hfill 2018 - Present
-- EUSPR Early Career Forum (ECF) \hfill 2018 - Present
+- Society for Prevention Research (SPR)
+- SPR Early Career Preventionist Network (ECPN) 
+- European Society for Prevention Research (EUSPR) 
+- EUSPR Early Career Forum (ECF)
 
 # Service
 
@@ -177,7 +227,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 - R Package Reviewer
 
-**Society for Prevention Research** (SPR) \hfill 2018 - Present
+**Society for Prevention Research** (SPR) \hfill 2018 - 2020
 
 - Abstract Student-Reviewer
 - Symposium Moderator
@@ -185,20 +235,20 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 **SPR Early Career Preventionist Network** (ECPN) \hfill 2018 - Present
 
 - Steering Committee Member (2018 - Present)
-- Program Subcommittee Member (2019 - Present)
+- Program Subcommittee Member (2019 - 2020)
 - Awards Subcommittee Member (2018 - 2019)
 
-**European Society for Prevention Research** (EUSPR) \hfill 2018 - Present
+**European Society for Prevention Research** (EUSPR) \hfill 2018 - 2019
 
 - Abstract Reviewer
 
 ## University & Department
 
-***Journal of Undergraduate Research***, Colorado State University  \hfill 2018 - Present
+***Journal of Undergraduate Research***, Colorado State University  \hfill 2018 - 2020
 
 - Graduate Referee
 
-**Graduate Student Council** (GSC), Colorado State University \hfill 2018 - Present
+**Graduate Student Council** (GSC), Colorado State University \hfill 2018 - 2020
 
 - Department Representative 
 - Travel Award Reviewer
@@ -208,13 +258,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - Reviewer - NSF GRFP Writing Workshop \hfill 2018, 2019
 - Panelist - NSF GRFP Informational Session \hfill 2018, 2019
 
-**Department of Human Development and Family Studies** (HDFS) \hfill 2019 - Present
+**Department of Human Development and Family Studies** (HDFS) \hfill 2019
 
 - Speaker Series Coordinator 
 - Panelist - HDFS Graduate Programs Informational Sessions 
-
-# Teaching & Mentoring Experience
-
-**HDFS Department**, Colorado State University \hfill  Fall 2016
-
-- Undergraduate Teaching Assistant for Infant & Child Development 
