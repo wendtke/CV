@@ -21,8 +21,8 @@ keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-linkcolor: blue
-urlcolor: blue
+linkcolor: red
+urlcolor: red
 ---
 
 # Education
@@ -31,19 +31,17 @@ urlcolor: blue
 
 - Graduate Research Fellowship in Developmental Psychology \hfill 2018 - Present
 
-Colorado State University (CSU) \hfill 2014 - Present
+[Colorado State University](https://www.colostate.edu/) (CSU) \hfill 2014 - Present
 
-- Ph.D. in Applied Developmental Science \hfill 2018 - Present
+- M.S. in [Prevention Science](https://www.chhs.colostate.edu/hdfs/programs-and-degrees/m-s-in-human-development-and-family-studies/prevention-science-specialization/) \hfill Expected December 2020
 
-- M.S. in Prevention Science \hfill Expected December 2020
+- Graduate Certificate in [Data Analysis](https://statistics.colostate.edu/graduate-certificate-in-data-analysis/#:~:text=The%20Graduate%20Certificate%20in%20Data,will%20strengthen%20their%20statistical%20skills.) \hfill 2020
 
-- Statistics Graduate Certificate in Data Analysis \hfill 2020
+- B.S. in [Human Development and Family Studies](https://www.chhs.colostate.edu/hdfs/programs-and-degrees/b-s-in-human-development-and-family-studies/) (*summa cum laude*) \hfill 2018
 
-- B.S. in Human Development and Family Studies (*summa cum laude*) \hfill 2018
+  - Minor in [International Development Studies](https://international.colostate.edu/global-engagement/international-development-studies/) \hfill 2018
 
-  - Minor in International Development Studies \hfill 2018
-
-  - Concentration in Prevention and Intervention Science \hfill 2018
+  - Concentration in [Prevention and Intervention Science](https://catalog.colostate.edu/general-catalog/colleges/health-human-sciences/human-development-family-studies/human-development-family-studies-major-prevention-intervention-sciences-concentration/) \hfill 2018
 
 # Research Experience
 
@@ -53,23 +51,25 @@ Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
 Purpose: Investigate use and benefits of mindfulness in family contexts
 
-Tasks: Project administration, planning, and management; data collection with physiological and observational systems; R programming; data analysis; technical, scientific, and grant writing; recruitment, training, mentorship, and management of 12 undergraduate research assistants
-
 - *Project Mind-Heart* (PMH): Investigate effects of brief mindfulness induction on individual and dyadic patterns of physiological, affective, and behavioral indicators during challenging parent-child interactions
 
 - *Mindful Parent Observational Study* (MPOS): Analyze behavioral and affective indicators of mindfulness and interaction quality in structured parent-youth interactions as part of randomized controlled trial of the Mindfulness-enhanced Strengthening Families Program (MSFP)
 
-Employment Funding: CSU Prevention Research Center
+Tasks: Project administration, planning, and management; data collection with physiological and observational systems; R programming; data analysis; technical, scientific, and grant writing; recruitment, training, mentorship, and management of 10+ undergraduate research assistants
 
-**Parenting Young Children Project** (NICHD K01), Project Manager \hfill 2015 - 2018
+- Funding: CSU Prevention Research Center
 
-Principal Investigator: Erika S. Lunkenheimer, Ph.D.
+**[Parent-Child Dynamics Laboratory](https://pcd.la.psu.edu/)**, Project Manager \hfill 2015 - 2018
 
-Purpose: NIH-funded longitudinal study investigating parents’ and young children’s (2.5 to 4 years old) dyadic coordination of emotions, behaviors, and physiology and associated risk of child maltreatment and psychopathology
+Director & Principal Investigator: Erika S. Lunkenheimer, Ph.D.
 
-Tasks: Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection, management, and processing with physiological and observational systems
+Purpose: Study how parenting and parent-child interactions influence child development in high-stress families
 
-Grant Funding: Eunice Kennedy Shriver National Institute of Child Health and Development Career Development Award (K01) to PI Lunkenheimer 
+- *Parenting Young Children Project* (PYCP): Test parents’ and young children’s dyadic coordination of emotions, behaviors, and physiology and associated risk of child maltreatment and psychopathology
+
+  - Tasks: Project management, grant administration, participant recruitment and retention, technical and scientific writing, and data collection, management, and processing with physiological and observational systems
+
+  - Grant Funding: Eunice Kennedy Shriver National Institute of Child Health and Development Career Development Award (K01) to PI Lunkenheimer 
 
 **Child Trauma and Resilience Assessment Center**, Intern \hfill Fall 2017
 
@@ -77,15 +77,15 @@ Principal Investigator: Lise Youngblade, Ph.D.
 
 Director: Stephanie Seng, M.S.
 
-Administrative and research support for SAMHSA- and DHS-funded projects focused on state-wide trauma-informed training, development of adult trauma assessment, and trauma assessment provision for high-risk adolescents
+- Tasks: Administrative and research support for SAMHSA- and DHS-funded projects focused on state-wide trauma-informed training, development of adult trauma assessment, and trauma assessment provision for high-risk adolescents
 
-Grant Funding: Substance Abuse and Mental Health Services Colorado Children's Congregate Care Resiliency Opportunity Project (CROP) to PI Youngblade
+- Grant Funding: Substance Abuse and Mental Health Services Colorado Children's Congregate Care Resiliency Opportunity Project (CROP) to PI Youngblade
 
 **Cognitive Neuroimaging Laboratory**, Honors Undergraduate Research Scholar \hfill 2014 - 2015
 
 Principal Investigator: Carol A. Seger, Ph.D.
 
-Data collection, processing, and management for dissertation research on learning and memory
+- Data collection, processing, and management for dissertation research on learning and memory
 
 # Translational Research Experience
 
@@ -95,7 +95,7 @@ Principal Investigator: David MacPhee, Ph.D.
 
 Program Director: Kyle Christensen
 
-Evaluate program implementation of Youth Leadership Summit (October 18-20, 2019) for diverse Colorado youth
+- Evaluate program implementation of Youth Leadership Summit (October 18-20, 2019) for diverse Colorado youth
 
 **SOS Outreach**, Research Consultant (*pro bono*) \hfill 2019 
 
@@ -103,7 +103,7 @@ Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
 Executive Director: Seth Erhlich 
 
-Qualitative and quantitative data management and analysis, study design and planning, R programming consultation for Shiny dashboard development, and grant-writing to help bolster research-base for outdoor-based mentorship and leadership program for at-risk and marginalized youth
+- Tasks: Qualitative and quantitative data management and analysis, study design and planning, R programming consultation for Shiny dashboard development, and grant-writing to help bolster research-base for outdoor-based mentorship and leadership program for at-risk and marginalized youth
 
 # Teaching Experience
 
@@ -111,29 +111,33 @@ Qualitative and quantitative data management and analysis, study design and plan
 
 Instructor: John Volckens, Ph.D.
 
-Tasks: Develop curriculum for and assist with implementation of open-source, 400-level engineering data analysis course in R
+- Develop curricula for and assist with implementation of open-source, upper-division undergraduate engineering data analysis course in R
 
-**CSU Department of Statistics**, Curriculum Developer \hfill 2020 - Present
+**CSU Department of Statistics**, Course Developer \hfill 2020 - Present
 
-Tasks: Develop curricula for online, open-source introductory programming and statistical computing course in R
+Co-Principal Investigators: Matthew V. Ross, Ph.D. & Ben Prytherch, M.S.
 
-Grant Funding: CSU Provost Office Digital Learning Initiative 
+Instructor: Alex Fout, M.S.
+
+- Develop curricula for online, open-source introductory programming and statistical computing course in R
+
+- Grant Funding: CSU Provost Office Digital Learning Initiative 
 
 **useR! 2020 Conference**, Teaching Assistant (*pro bono*) \hfill July 2020
 
 Instructor: Samantha Tyner, Ph.D.
 
-Tasks: Help develop and execute online tutorial for data visualization 
+- Help develop and execute online tutorial for data visualization 
 
 **Department of Human Development and Family Studies**, Teaching Assistant \hfill  Fall 2016
 
 Instructor: Erika S. Lunkenheimer, Ph.D.
 
-Tasks: Grading and exam review sessions for course on infant and child development
+- Grading and exam review sessions for upper-division undergraduate course on infant and child development
 
 # Software Development
 
-**Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). [`psyphr`](https://github.com/psyphr-dev): R package suite to wrangle, filter, visualize, analyze, and share physiological data. In active development at github.com/psyphr-dev
+**Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). [`psyphr`](https://github.com/psyphr-dev): R package suite to wrangle, filter, visualize, analyze, and share physiological data. In active development.
 
 # Peer-Reviewed Publications
 
@@ -202,7 +206,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 # Professional Development Activities
 
-- useR! Conference \hfill July 2020
+- useR! Conference (online due to COVID-19) \hfill July 2020
 - RStudio `tidyverse` developer day - Dr. Hadley Wickham \hfill January 31, 2020
 - RStudio Conference \hfill January 29-30, 2020
 - RStudio `tidy tools` workshop - Drs. Hadley & Charlotte Wickham \hfill January 27-28, 2020
