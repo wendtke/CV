@@ -21,8 +21,8 @@ keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-linkcolor: red
-urlcolor: red
+linkcolor: blue
+urlcolor: blue
 ---
 
 # Education
@@ -39,9 +39,9 @@ urlcolor: red
 
 - B.S. in [Human Development and Family Studies](https://www.chhs.colostate.edu/hdfs/programs-and-degrees/b-s-in-human-development-and-family-studies/) (*summa cum laude*) \hfill 2018
 
-  - Minor in [International Development Studies](https://international.colostate.edu/global-engagement/international-development-studies/) \hfill 2018
-
   - Concentration in [Prevention and Intervention Science](https://catalog.colostate.edu/general-catalog/colleges/health-human-sciences/human-development-family-studies/human-development-family-studies-major-prevention-intervention-sciences-concentration/) \hfill 2018
+  
+  - Minor in [International Development Studies](https://international.colostate.edu/global-engagement/international-development-studies/) \hfill 2018
 
 # Research Experience
 
@@ -135,6 +135,12 @@ Instructor: Erika S. Lunkenheimer, Ph.D.
 
 - Grading and exam review sessions for upper-division undergraduate course on infant and child development
 
+**African Impact & Colorado State University**, Teaching Volunteer \hfill Summer 2015
+
+- Developed curricula and co-instructed Grade 5 in English, math, art, and science for service abroad program in community health and education in Livingstone, Zambia
+
+- Wrote personal memoir about experience published by Colorado State University English Department in _A Friend is Someone You Share the Path With_ (2015)
+
 # Software Development
 
 **Wendt, K.E.**, Zhang, S., Feldman, M.F., & Anderson, G.B. (2019). [`psyphr`](https://github.com/psyphr-dev): R package suite to wrangle, filter, visualize, analyze, and share physiological data. In active development.
@@ -199,8 +205,8 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 - R and its extensions (e.g., RStudio, R Markdown, Shiny)
 - Version control and collaboration with Git/GitHub
-- Python (currently learning)
-- SPSS (although I actively avoid using it)
+- Python (beginner)
+- SPSS
 - Microsoft Office Suite
 - Collaborative clouds including Google Drive and OneDrive
 
@@ -215,6 +221,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 - Uncoast Unconf with R \hfill April 14-16, 2019
 - Grant-Writing Workshop for NIH - Dr. Maria Esformes \hfill August 3, 2018
 - Heart Rate Variability Workshop - Dr. Gary Berntson \hfill June 9-10, 2018
+- Mental Health and Education Integration Consortium (MHEDIC) \hfill May 3-4, 2018
 
 # Professional Membership
 
@@ -266,3 +273,34 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 - Speaker Series Coordinator 
 - Panelist - HDFS Graduate Programs Informational Sessions 
+
+**Office of International Programs**
+
+- Exchange Student Mentor \hfill Spring 2016
+
+## Community
+
+**Center for Public Deliberation** (CPD), Colorado State University \hfill 
+
+Director: Martín Carcasson, Ph.D.
+
+- Community Associate \hfill 2018 - Present
+
+  - Impartial engagement with diverse stakeholders in local communities about difficult issues (e.g., affordable housing); mitigation of polarization and focus on collaborative problem-solving
+
+- Senior Associate \hfill 2017
+- Student Associate \hfill 2016
+
+**Kids at Heart**, Fort Collins & Loveland, CO 
+
+- Group Leader \hfill 2014-2017
+
+**Pathways Hospice and Palliative Care**, Fort Collins, CO
+
+- Hospice Visitor \hfill 2016
+
+- Child Bereavement Group Volunteer \hfill 2016
+
+**Early Childhood Center**, Colorado State University
+
+- Volunteer Caregiver for Infants \hfill Fall 2014
