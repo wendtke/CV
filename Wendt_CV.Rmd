@@ -11,7 +11,7 @@ author: Kathleen Ellen Wendt
 jobtitle: "NSF Graduate Research Fellow | Graduate Student"
 address: "Behavioral Sciences Building · Colorado State University  · Fort Collins, CO"
 fontawesome: yes
-email: Kathleen.Wendt18@alumni.colostate.edu
+email: Kathleen.Wendt@colostate.edu
 github: wendtke
 twitter: wendtke
 updated: yes
@@ -33,7 +33,9 @@ urlcolor: blue
 
 [Colorado State University](https://www.colostate.edu/) (CSU) \hfill 2014 - Present
 
-- M.S. in [Prevention Science](https://www.chhs.colostate.edu/hdfs/programs-and-degrees/m-s-in-human-development-and-family-studies/prevention-science-specialization/) \hfill Expected December 2020
+- Ph.D. in [Applied Developmental Science](https://www.chhs.colostate.edu/hdfs/programs-and-degrees/ph-d-in-applied-developmental-science/) \hfill Expected 2022
+
+- M.S. in [Prevention Science](https://www.chhs.colostate.edu/hdfs/programs-and-degrees/m-s-in-human-development-and-family-studies/prevention-science-specialization/) \hfill 2020
 
 - Graduate Certificate in [Data Analysis](https://statistics.colostate.edu/graduate-certificate-in-data-analysis/#:~:text=The%20Graduate%20Certificate%20in%20Data,will%20strengthen%20their%20statistical%20skills.) \hfill 2020
 
@@ -45,7 +47,7 @@ urlcolor: blue
 
 # Research Experience
 
-**[Mindfulness and Family Resilience Laboratory](https://www.chhs.colostate.edu/hdfs/research/research-labs/mindfulness-and-family-resilience-lab/)** (MFR), Lab Manager \hfill  2016 - Present
+**[Mindfulness and Family Resilience Laboratory](https://www.chhs.colostate.edu/hdfs/research/research-labs/mindfulness-and-family-resilience-lab/)** (MFR), Lab Manager \hfill  2016 - 2020
 
 Director & Principal Investigator: J. Douglas Coatsworth, Ph.D.
 
@@ -107,13 +109,13 @@ Executive Director: Seth Erhlich
 
 # Teaching Experience
 
-**CSU Department of Mechanical Engineering**, Teaching Assistant \hfill 2020 - Present
+**CSU Department of Mechanical Engineering**, Teaching Assistant \hfill 2020
 
 Instructor: John Volckens, Ph.D.
 
 - Develop curricula for and assist with implementation of open-source, upper-division undergraduate engineering data analysis course in R
 
-**CSU Department of Statistics**, Course Developer \hfill 2020 - Present
+**CSU Department of Statistics**, Course Developer \hfill 2020
 
 Co-Principal Investigators: Matthew V. Ross, Ph.D. & Ben Prytherch, M.S.
 
@@ -147,20 +149,15 @@ Instructor: Erika S. Lunkenheimer, Ph.D.
 
 # Peer-Reviewed Publications
 
-## Under Review
+Grant, S., **Wendt, K.E.**, Leadbeater, B.J., Supplee, L. H., Mayo-Wilson, E., Gardner, F., & Bradshaw, C. (2020, November 19). Transparent, open, and reproducible prevention science. Anchoring statement for 2020 Special Issue of *Prevention Science*. Preprint under review. https://doi.org/10.31222/osf.io/d2y43
 
-Lunkenheimer, E.S., Skoranski, A.M., & **Wendt, K.E.** Flexible or inconsistent? Parental depressive symptoms and parent-child behavioral
-inconsistency heighten child dysregulation. Manuscript under review.
+Lunkenheimer, E., Skoranski, A. M., Lobo, F. M., & **Wendt, K. E.** (2020). Parental depressive symptoms, parent–child dyadic behavioral variability, and child dysregulation. _Journal of Family Psychology._ Advance online publication. https://doi.org/10.1037/fam0000807
+
+Prendergast, S., Klinedinst, T., Miller, R.L., Gerst, K., & **Wendt, K.E.** Multiple chronic conditions and functional decline among Medicare beneficiaries. Manuscript under review.
 
 ## In Preparation
 
-**Wendt, K.E.**, Lucas-Thompson, R.G., Lunkenheimer, E.S., & Coatsworth, J.D. The effects of a brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Manuscript in preparation.
-
-Grant, S.P., **Wendt, K.E.**, Gardner, F., Leadbeater, B.J., Crowley, D.M., Mayo-Wilson, E., Supplee, L.H., & Bradshaw, C.P. Transparent, open, and reproducible prevention science. Anchoring statement for 2020 Special Issue of *Prevention Science*. Manuscript in preparation.
-
-**Wendt, K.E.**, Timpe, Z.C., Anderson, G.B, Chorpita, B.F., & Coatsworth, J.D. The promise of open source and open access: Computational reproducibility and knowledge management in prevention science. Invited manuscript submission for 2020 Special Issue of *Prevention Science*. Manuscript in preparation.
-
-Prendergast, S., Klinedinst, T., Miller, R.L., Gerst, K., & **Wendt, K.E.**. Multiple chronic conditions and functional decline among Medicare beneficiaries: A comparison of modeling approaches. Manuscript in preparation.
+**Wendt, K.E.**, Lucas-Thompson, R.G., Lunkenheimer, E.S., & Coatsworth, J.D. The effects of a brief mindfulness induction on parents' autonomic activity during challenging parent-child interactions. Master's thesis and manuscript in preparation.
 
 # Presentations
 
@@ -284,7 +281,7 @@ Toll, R., George, M.R., Duey, S., Nichols, K., Riggs, N.R., & **Wendt, K.E.** (2
 
 Director: Martín Carcasson, Ph.D.
 
-- Community Associate \hfill 2018 - Present
+- Community Associate \hfill 2018 - 2019
 
   - Impartial engagement with diverse stakeholders in local communities about difficult issues (e.g., affordable housing); mitigation of polarization and focus on collaborative problem-solving
 
